@@ -1,0 +1,2427 @@
+{
+  "catalog_id": "ff5-bosses-v1",
+  "schema_version": 1,
+  "bosses": [
+    {
+      "boss_id": "wing_raptor",
+      "reference_rank": 1,
+      "name": "Wing Raptor",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 440,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        281,
+        282
+      ],
+      "initial_monster_ids": [
+        281
+      ],
+      "profile_monster_ids": [
+        281,
+        282
+      ],
+      "native_hp_budget": 250,
+      "effective_hp_budget": 250,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 281,
+          "lv": 1,
+          "hp": 250,
+          "mp": 25,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 25
+        },
+        {
+          "monster_id": 282,
+          "lv": 2,
+          "hp": 250,
+          "mp": 0,
+          "attack": 7,
+          "attack_count": 3,
+          "magic": 1,
+          "defense": 20,
+          "ability_defense": 10,
+          "agility": 25
+        }
+      ]
+    },
+    {
+      "boss_id": "karlabos",
+      "reference_rank": 2,
+      "name": "Karlabos",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 441,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        283
+      ],
+      "initial_monster_ids": [
+        283
+      ],
+      "profile_monster_ids": [
+        283
+      ],
+      "native_hp_budget": 650,
+      "effective_hp_budget": 650,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 283,
+          "lv": 5,
+          "hp": 650,
+          "mp": 100,
+          "attack": 10,
+          "attack_count": 4,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 30
+        }
+      ]
+    },
+    {
+      "boss_id": "siren",
+      "reference_rank": 3,
+      "name": "Siren",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 442,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        285,
+        286
+      ],
+      "initial_monster_ids": [
+        285
+      ],
+      "profile_monster_ids": [
+        285,
+        286
+      ],
+      "native_hp_budget": 900,
+      "effective_hp_budget": 900,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 285,
+          "lv": 2,
+          "hp": 900,
+          "mp": 200,
+          "attack": 15,
+          "attack_count": 6,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 20,
+          "agility": 35
+        },
+        {
+          "monster_id": 286,
+          "lv": 2,
+          "hp": 900,
+          "mp": 200,
+          "attack": 14,
+          "attack_count": 8,
+          "magic": 0,
+          "defense": 12,
+          "ability_defense": 0,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "magissa_forza",
+      "reference_rank": 4,
+      "name": "Magissa and Forza",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 443,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        287,
+        288
+      ],
+      "initial_monster_ids": [
+        288
+      ],
+      "profile_monster_ids": [
+        287,
+        288
+      ],
+      "native_hp_budget": 650,
+      "effective_hp_budget": 1500,
+      "requirements": [
+        "transformation_or_spawn",
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 287,
+          "lv": 8,
+          "hp": 850,
+          "mp": 100,
+          "attack": 14,
+          "attack_count": 9,
+          "magic": 0,
+          "defense": 3,
+          "ability_defense": 5,
+          "agility": 37
+        },
+        {
+          "monster_id": 288,
+          "lv": 8,
+          "hp": 650,
+          "mp": 200,
+          "attack": 14,
+          "attack_count": 5,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 30
+        }
+      ]
+    },
+    {
+      "boss_id": "garula",
+      "reference_rank": 5,
+      "name": "Garula",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 444,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        289
+      ],
+      "initial_monster_ids": [
+        289
+      ],
+      "profile_monster_ids": [
+        289
+      ],
+      "native_hp_budget": 1200,
+      "effective_hp_budget": 1200,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 289,
+          "lv": 3,
+          "hp": 1200,
+          "mp": 100,
+          "attack": 15,
+          "attack_count": 9,
+          "magic": 0,
+          "defense": 7,
+          "ability_defense": 4,
+          "agility": 31
+        }
+      ]
+    },
+    {
+      "boss_id": "liquid_flame",
+      "reference_rank": 6,
+      "name": "Liquid Flame",
+      "tier": "complex",
+      "world": 1,
+      "formation_id": 445,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        290,
+        291,
+        292
+      ],
+      "initial_monster_ids": [
+        290
+      ],
+      "profile_monster_ids": [
+        290,
+        291,
+        292
+      ],
+      "native_hp_budget": 3000,
+      "effective_hp_budget": 3000,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 290,
+          "lv": 19,
+          "hp": 3000,
+          "mp": 100,
+          "attack": 18,
+          "attack_count": 5,
+          "magic": 10,
+          "defense": 0,
+          "ability_defense": 15,
+          "agility": 35
+        },
+        {
+          "monster_id": 291,
+          "lv": 19,
+          "hp": 3000,
+          "mp": 30,
+          "attack": 18,
+          "attack_count": 5,
+          "magic": 30,
+          "defense": 0,
+          "ability_defense": 30,
+          "agility": 35
+        },
+        {
+          "monster_id": 292,
+          "lv": 19,
+          "hp": 3000,
+          "mp": 50,
+          "attack": 18,
+          "attack_count": 5,
+          "magic": 20,
+          "defense": 0,
+          "ability_defense": 15,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "iron_claw",
+      "reference_rank": 7,
+      "name": "Iron Claw",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 446,
+      "formation_alias_ids": [
+        630
+      ],
+      "monster_ids": [
+        361,
+        362,
+        363
+      ],
+      "initial_monster_ids": [
+        363,
+        363,
+        363,
+        362
+      ],
+      "profile_monster_ids": [
+        361,
+        362,
+        363
+      ],
+      "native_hp_budget": 1420,
+      "effective_hp_budget": 1320,
+      "requirements": [
+        "native_battle_script",
+        "transformation_or_spawn",
+        "timer_adapter"
+      ],
+      "stats": [
+        {
+          "monster_id": 361,
+          "lv": 39,
+          "hp": 900,
+          "mp": 150,
+          "attack": 21,
+          "attack_count": 8,
+          "magic": 1,
+          "defense": 20,
+          "ability_defense": 10,
+          "agility": 40
+        },
+        {
+          "monster_id": 362,
+          "lv": 0,
+          "hp": 1000,
+          "mp": 25,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 5,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 20
+        },
+        {
+          "monster_id": 363,
+          "lv": 19,
+          "hp": 140,
+          "mp": 25,
+          "attack": 18,
+          "attack_count": 4,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 10
+        }
+      ]
+    },
+    {
+      "boss_id": "ifrit",
+      "reference_rank": 8,
+      "name": "Ifrit",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 495,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        54
+      ],
+      "initial_monster_ids": [
+        54
+      ],
+      "profile_monster_ids": [
+        54
+      ],
+      "native_hp_budget": 3000,
+      "effective_hp_budget": 3000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 54,
+          "lv": 22,
+          "hp": 3000,
+          "mp": 1000,
+          "attack": 29,
+          "attack_count": 6,
+          "magic": 32,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "shiva",
+      "reference_rank": 9,
+      "name": "Shiva",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 498,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        293,
+        317
+      ],
+      "initial_monster_ids": [
+        293,
+        293,
+        293,
+        317
+      ],
+      "profile_monster_ids": [
+        293,
+        317
+      ],
+      "native_hp_budget": 3300,
+      "effective_hp_budget": 3300,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 293,
+          "lv": 4,
+          "hp": 600,
+          "mp": 200,
+          "attack": 21,
+          "attack_count": 6,
+          "magic": 10,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 25
+        },
+        {
+          "monster_id": 317,
+          "lv": 11,
+          "hp": 1500,
+          "mp": 1000,
+          "attack": 40,
+          "attack_count": 6,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 25
+        }
+      ]
+    },
+    {
+      "boss_id": "byblos",
+      "reference_rank": 10,
+      "name": "Byblos",
+      "tier": "complex",
+      "world": 1,
+      "formation_id": 447,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        33
+      ],
+      "initial_monster_ids": [
+        33
+      ],
+      "profile_monster_ids": [
+        33
+      ],
+      "native_hp_budget": 3600,
+      "effective_hp_budget": 3600,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 33,
+          "lv": 24,
+          "hp": 3600,
+          "mp": 1000,
+          "attack": 30,
+          "attack_count": 15,
+          "magic": 20,
+          "defense": 10,
+          "ability_defense": 30,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "cray_claw",
+      "reference_rank": 11,
+      "name": "Cray Claw",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 507,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        364
+      ],
+      "initial_monster_ids": [
+        364
+      ],
+      "profile_monster_ids": [
+        364
+      ],
+      "native_hp_budget": 2000,
+      "effective_hp_budget": 2000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 364,
+          "lv": 43,
+          "hp": 2000,
+          "mp": 500,
+          "attack": 37,
+          "attack_count": 6,
+          "magic": 1,
+          "defense": 25,
+          "ability_defense": 25,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "sandworm",
+      "reference_rank": 12,
+      "name": "Sandworm",
+      "tier": "complex",
+      "world": 1,
+      "formation_id": 448,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        294,
+        295
+      ],
+      "initial_monster_ids": [
+        295,
+        295,
+        295
+      ],
+      "profile_monster_ids": [
+        294
+      ],
+      "native_hp_budget": 9000,
+      "effective_hp_budget": 3000,
+      "requirements": [
+        "native_battle_script",
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 294,
+          "lv": 18,
+          "hp": 3000,
+          "mp": 10125,
+          "attack": 25,
+          "attack_count": 10,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 50
+        },
+        {
+          "monster_id": 295,
+          "lv": 18,
+          "hp": 3000,
+          "mp": 10125,
+          "attack": 25,
+          "attack_count": 10,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 1
+        }
+      ]
+    },
+    {
+      "boss_id": "adamantoise",
+      "reference_rank": 13,
+      "name": "Adamantoise",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 449,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        296
+      ],
+      "initial_monster_ids": [
+        296
+      ],
+      "profile_monster_ids": [
+        296
+      ],
+      "native_hp_budget": 2000,
+      "effective_hp_budget": 2000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 296,
+          "lv": 20,
+          "hp": 2000,
+          "mp": 125,
+          "attack": 31,
+          "attack_count": 18,
+          "magic": 0,
+          "defense": 25,
+          "ability_defense": 5,
+          "agility": 30
+        }
+      ]
+    },
+    {
+      "boss_id": "soul_cannon",
+      "reference_rank": 14,
+      "name": "Soul Cannon",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 452,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        300,
+        371,
+        372
+      ],
+      "initial_monster_ids": [
+        300,
+        371,
+        372
+      ],
+      "profile_monster_ids": [
+        300,
+        371,
+        372
+      ],
+      "native_hp_budget": 44100,
+      "effective_hp_budget": 14100,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 300,
+          "lv": 36,
+          "hp": 22500,
+          "mp": 1000,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 1,
+          "defense": 5,
+          "ability_defense": 10,
+          "agility": 55
+        },
+        {
+          "monster_id": 371,
+          "lv": 50,
+          "hp": 10800,
+          "mp": 1000,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 20
+        },
+        {
+          "monster_id": 372,
+          "lv": 50,
+          "hp": 10800,
+          "mp": 1000,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 1,
+          "defense": 0,
+          "ability_defense": 10,
+          "agility": 20
+        }
+      ]
+    },
+    {
+      "boss_id": "archeoaevis",
+      "reference_rank": 15,
+      "name": "Archeoaevis",
+      "tier": "complex",
+      "world": 1,
+      "formation_id": 453,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "initial_monster_ids": [
+        301
+      ],
+      "profile_monster_ids": [
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "native_hp_budget": 1600,
+      "effective_hp_budget": 8900,
+      "requirements": [
+        "native_battle_script",
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 301,
+          "lv": 21,
+          "hp": 1600,
+          "mp": 2000,
+          "attack": 39,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 30,
+          "ability_defense": 6,
+          "agility": 30
+        },
+        {
+          "monster_id": 302,
+          "lv": 19,
+          "hp": 1600,
+          "mp": 2000,
+          "attack": 39,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 24,
+          "ability_defense": 12,
+          "agility": 30
+        },
+        {
+          "monster_id": 303,
+          "lv": 23,
+          "hp": 1600,
+          "mp": 2000,
+          "attack": 39,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 18,
+          "ability_defense": 18,
+          "agility": 30
+        },
+        {
+          "monster_id": 304,
+          "lv": 24,
+          "hp": 1600,
+          "mp": 2000,
+          "attack": 39,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 12,
+          "ability_defense": 24,
+          "agility": 30
+        },
+        {
+          "monster_id": 305,
+          "lv": 20,
+          "hp": 2500,
+          "mp": 2000,
+          "attack": 42,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 6,
+          "ability_defense": 30,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "manticore",
+      "reference_rank": 16,
+      "name": "Manticore / Chimera Brain",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 454,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        306
+      ],
+      "initial_monster_ids": [
+        306
+      ],
+      "profile_monster_ids": [
+        306
+      ],
+      "native_hp_budget": 3300,
+      "effective_hp_budget": 3300,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 306,
+          "lv": 19,
+          "hp": 3300,
+          "mp": 1000,
+          "attack": 40,
+          "attack_count": 7,
+          "magic": 1,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "purobolos",
+      "reference_rank": 17,
+      "name": "Purobolos",
+      "tier": "complex",
+      "world": 1,
+      "formation_id": 456,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        308
+      ],
+      "initial_monster_ids": [
+        308,
+        308,
+        308,
+        308,
+        308,
+        308
+      ],
+      "profile_monster_ids": [
+        308
+      ],
+      "native_hp_budget": 9000,
+      "effective_hp_budget": 9000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 308,
+          "lv": 22,
+          "hp": 1500,
+          "mp": 100,
+          "attack": 45,
+          "attack_count": 7,
+          "magic": 10,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 20
+        }
+      ]
+    },
+    {
+      "boss_id": "titan",
+      "reference_rank": 18,
+      "name": "Titan",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 455,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        307
+      ],
+      "initial_monster_ids": [
+        307
+      ],
+      "profile_monster_ids": [
+        307
+      ],
+      "native_hp_budget": 2500,
+      "effective_hp_budget": 2500,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 307,
+          "lv": 1,
+          "hp": 2500,
+          "mp": 2000,
+          "attack": 45,
+          "attack_count": 7,
+          "magic": 0,
+          "defense": 10,
+          "ability_defense": 0,
+          "agility": 25
+        }
+      ]
+    },
+    {
+      "boss_id": "gilgamesh_1",
+      "reference_rank": 19,
+      "name": "Gilgamesh 1",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 458,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        310
+      ],
+      "initial_monster_ids": [
+        310
+      ],
+      "profile_monster_ids": [
+        310
+      ],
+      "native_hp_budget": 11500,
+      "effective_hp_budget": 1500,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 310,
+          "lv": 26,
+          "hp": 11500,
+          "mp": 2000,
+          "attack": 40,
+          "attack_count": 6,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 25
+        }
+      ]
+    },
+    {
+      "boss_id": "gilgamesh_2",
+      "reference_rank": 20,
+      "name": "Gilgamesh 2",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 465,
+      "formation_alias_ids": [
+        650
+      ],
+      "monster_ids": [
+        315
+      ],
+      "initial_monster_ids": [
+        315
+      ],
+      "profile_monster_ids": [
+        315
+      ],
+      "native_hp_budget": 6500,
+      "effective_hp_budget": 6500,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 315,
+          "lv": 28,
+          "hp": 6500,
+          "mp": 1000,
+          "attack": 49,
+          "attack_count": 7,
+          "magic": 0,
+          "defense": 14,
+          "ability_defense": 10,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "tyrannosaur",
+      "reference_rank": 21,
+      "name": "Tyrannosaur",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 466,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        316
+      ],
+      "initial_monster_ids": [
+        316
+      ],
+      "profile_monster_ids": [
+        316
+      ],
+      "native_hp_budget": 5000,
+      "effective_hp_budget": 5000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 316,
+          "lv": 29,
+          "hp": 5000,
+          "mp": 1000,
+          "attack": 45,
+          "attack_count": 8,
+          "magic": 0,
+          "defense": 20,
+          "ability_defense": 20,
+          "agility": 50
+        }
+      ]
+    },
+    {
+      "boss_id": "abductor",
+      "reference_rank": 22,
+      "name": "Abductor - Bal Castle",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 467,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        318
+      ],
+      "initial_monster_ids": [
+        318
+      ],
+      "profile_monster_ids": [
+        318
+      ],
+      "native_hp_budget": 2500,
+      "effective_hp_budget": 2500,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 318,
+          "lv": 29,
+          "hp": 2500,
+          "mp": 1000,
+          "attack": 40,
+          "attack_count": 6,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "dragon_pod",
+      "reference_rank": 23,
+      "name": "Dragon Pod and Flowers",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 468,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "initial_monster_ids": [
+        319
+      ],
+      "profile_monster_ids": [
+        319,
+        320,
+        321,
+        322,
+        323,
+        324
+      ],
+      "native_hp_budget": 12000,
+      "effective_hp_budget": 12000,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 319,
+          "lv": 33,
+          "hp": 12000,
+          "mp": 1000,
+          "attack": 40,
+          "attack_count": 6,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 40,
+          "agility": 39
+        },
+        {
+          "monster_id": 320,
+          "lv": 31,
+          "hp": 100,
+          "mp": 1000,
+          "attack": 5,
+          "attack_count": 20,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 50,
+          "agility": 22
+        },
+        {
+          "monster_id": 321,
+          "lv": 31,
+          "hp": 100,
+          "mp": 1000,
+          "attack": 5,
+          "attack_count": 20,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 50,
+          "agility": 17
+        },
+        {
+          "monster_id": 322,
+          "lv": 33,
+          "hp": 100,
+          "mp": 1000,
+          "attack": 5,
+          "attack_count": 20,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 50,
+          "agility": 27
+        },
+        {
+          "monster_id": 323,
+          "lv": 31,
+          "hp": 100,
+          "mp": 1000,
+          "attack": 5,
+          "attack_count": 20,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 50,
+          "agility": 22
+        },
+        {
+          "monster_id": 324,
+          "lv": 35,
+          "hp": 100,
+          "mp": 1000,
+          "attack": 5,
+          "attack_count": 20,
+          "magic": 50,
+          "defense": 0,
+          "ability_defense": 50,
+          "agility": 18
+        }
+      ]
+    },
+    {
+      "boss_id": "gilgamesh_3",
+      "reference_rank": 24,
+      "name": "Gilgamesh 3 and Enkidu",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 469,
+      "formation_alias_ids": [
+        651
+      ],
+      "monster_ids": [
+        325,
+        326
+      ],
+      "initial_monster_ids": [
+        325
+      ],
+      "profile_monster_ids": [
+        325,
+        326
+      ],
+      "native_hp_budget": 8888,
+      "effective_hp_budget": 12888,
+      "requirements": [
+        "transformation_or_spawn",
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 325,
+          "lv": 31,
+          "hp": 8888,
+          "mp": 888,
+          "attack": 50,
+          "attack_count": 5,
+          "magic": 50,
+          "defense": 10,
+          "ability_defense": 10,
+          "agility": 45
+        },
+        {
+          "monster_id": 326,
+          "lv": 29,
+          "hp": 4000,
+          "mp": 1000,
+          "attack": 50,
+          "attack_count": 5,
+          "magic": 40,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "atomos",
+      "reference_rank": 25,
+      "name": "Atomos",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 470,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        327
+      ],
+      "initial_monster_ids": [
+        327
+      ],
+      "profile_monster_ids": [
+        327
+      ],
+      "native_hp_budget": 19997,
+      "effective_hp_budget": 19997,
+      "requirements": [
+        "native_battle_script"
+      ],
+      "stats": [
+        {
+          "monster_id": 327,
+          "lv": 41,
+          "hp": 19997,
+          "mp": 10000,
+          "attack": 10,
+          "attack_count": 10,
+          "magic": 80,
+          "defense": 14,
+          "ability_defense": 20,
+          "agility": 36
+        }
+      ]
+    },
+    {
+      "boss_id": "crystals",
+      "reference_rank": 26,
+      "name": "Crystals / Guardians",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 471,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        328,
+        329,
+        330,
+        331
+      ],
+      "initial_monster_ids": [
+        330,
+        328,
+        329,
+        331
+      ],
+      "profile_monster_ids": [
+        328,
+        329,
+        330,
+        331
+      ],
+      "native_hp_budget": 31108,
+      "effective_hp_budget": 31108,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 328,
+          "lv": 77,
+          "hp": 7777,
+          "mp": 10000,
+          "attack": 40,
+          "attack_count": 10,
+          "magic": 15,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 40
+        },
+        {
+          "monster_id": 329,
+          "lv": 77,
+          "hp": 7777,
+          "mp": 10000,
+          "attack": 40,
+          "attack_count": 10,
+          "magic": 1,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 45
+        },
+        {
+          "monster_id": 330,
+          "lv": 77,
+          "hp": 7777,
+          "mp": 10000,
+          "attack": 40,
+          "attack_count": 10,
+          "magic": 15,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 50
+        },
+        {
+          "monster_id": 331,
+          "lv": 77,
+          "hp": 7777,
+          "mp": 10000,
+          "attack": 40,
+          "attack_count": 10,
+          "magic": 10,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 55
+        }
+      ]
+    },
+    {
+      "boss_id": "carbuncle",
+      "reference_rank": 27,
+      "name": "Carbuncle",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 472,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        332,
+        374
+      ],
+      "initial_monster_ids": [
+        332
+      ],
+      "profile_monster_ids": [
+        332,
+        374
+      ],
+      "native_hp_budget": 15000,
+      "effective_hp_budget": 15000,
+      "requirements": [
+        "transformation_or_spawn",
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 332,
+          "lv": 44,
+          "hp": 15000,
+          "mp": 10000,
+          "attack": 50,
+          "attack_count": 10,
+          "magic": 50,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 50
+        },
+        {
+          "monster_id": 374,
+          "lv": 1,
+          "hp": 15000,
+          "mp": 1000,
+          "attack": 7,
+          "attack_count": 2,
+          "magic": 10,
+          "defense": 10,
+          "ability_defense": 0,
+          "agility": 25
+        }
+      ]
+    },
+    {
+      "boss_id": "gilgamesh_4",
+      "reference_rank": 28,
+      "name": "Gilgamesh 4",
+      "tier": "simple",
+      "world": 2,
+      "formation_id": 473,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        334,
+        373
+      ],
+      "initial_monster_ids": [
+        373
+      ],
+      "profile_monster_ids": [
+        373
+      ],
+      "native_hp_budget": 55000,
+      "effective_hp_budget": 14000,
+      "requirements": [
+        "native_battle_script",
+        "scaled_ai_thresholds",
+        "native_syscall_adapter"
+      ],
+      "stats": [
+        {
+          "monster_id": 334,
+          "lv": 67,
+          "hp": 60000,
+          "mp": 9000,
+          "attack": 50,
+          "attack_count": 1,
+          "magic": 0,
+          "defense": 20,
+          "ability_defense": 10,
+          "agility": 75
+        },
+        {
+          "monster_id": 373,
+          "lv": 53,
+          "hp": 55000,
+          "mp": 2000,
+          "attack": 60,
+          "attack_count": 12,
+          "magic": 1,
+          "defense": 10,
+          "ability_defense": 15,
+          "agility": 65
+        }
+      ]
+    },
+    {
+      "boss_id": "antlion",
+      "reference_rank": 29,
+      "name": "Antlion",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 475,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        336,
+        513
+      ],
+      "initial_monster_ids": [
+        336
+      ],
+      "profile_monster_ids": [
+        336,
+        513
+      ],
+      "native_hp_budget": 8100,
+      "effective_hp_budget": 8100,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 336,
+          "lv": 34,
+          "hp": 8100,
+          "mp": 1000,
+          "attack": 48,
+          "attack_count": 13,
+          "magic": 0,
+          "defense": 20,
+          "ability_defense": 20,
+          "agility": 50
+        },
+        {
+          "monster_id": 513,
+          "lv": 34,
+          "hp": 8100,
+          "mp": 1000,
+          "attack": 48,
+          "attack_count": 13,
+          "magic": 0,
+          "defense": 20,
+          "ability_defense": 20,
+          "agility": 50
+        }
+      ]
+    },
+    {
+      "boss_id": "gargoyles",
+      "reference_rank": 30,
+      "name": "Gargoyles",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 483,
+      "formation_alias_ids": [
+        570,
+        571,
+        572,
+        601
+      ],
+      "monster_ids": [
+        345
+      ],
+      "initial_monster_ids": [
+        345,
+        345
+      ],
+      "profile_monster_ids": [
+        345
+      ],
+      "native_hp_budget": 10000,
+      "effective_hp_budget": 10000,
+      "requirements": [
+        "transformation_or_spawn",
+        "shared_assignment_across_repeated_gates"
+      ],
+      "stats": [
+        {
+          "monster_id": 345,
+          "lv": 33,
+          "hp": 5000,
+          "mp": 300,
+          "attack": 58,
+          "attack_count": 9,
+          "magic": 50,
+          "defense": 13,
+          "ability_defense": 12,
+          "agility": 34
+        }
+      ]
+    },
+    {
+      "boss_id": "ramuh",
+      "reference_rank": 31,
+      "name": "Ramuh",
+      "tier": "simple",
+      "world": 1,
+      "formation_id": 77,
+      "formation_alias_ids": [
+        561
+      ],
+      "monster_ids": [
+        40
+      ],
+      "initial_monster_ids": [
+        40
+      ],
+      "profile_monster_ids": [
+        40
+      ],
+      "native_hp_budget": 4000,
+      "effective_hp_budget": 4000,
+      "requirements": [
+        "random_encounter_location",
+        "destination_summon_reward"
+      ],
+      "stats": [
+        {
+          "monster_id": 40,
+          "lv": 21,
+          "hp": 4000,
+          "mp": 300,
+          "attack": 27,
+          "attack_count": 8,
+          "magic": 50,
+          "defense": 20,
+          "ability_defense": 5,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "catoblepas",
+      "reference_rank": 32,
+      "name": "Catoblepas",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 166,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        115
+      ],
+      "initial_monster_ids": [
+        115
+      ],
+      "profile_monster_ids": [
+        115
+      ],
+      "native_hp_budget": 5000,
+      "effective_hp_budget": 5000,
+      "requirements": [
+        "random_encounter_location",
+        "destination_summon_reward"
+      ],
+      "stats": [
+        {
+          "monster_id": 115,
+          "lv": 38,
+          "hp": 5000,
+          "mp": 500,
+          "attack": 55,
+          "attack_count": 10,
+          "magic": 50,
+          "defense": 20,
+          "ability_defense": 10,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "golem",
+      "reference_rank": 33,
+      "name": "Golem rescue",
+      "tier": "complex",
+      "world": 2,
+      "formation_id": 188,
+      "formation_alias_ids": [
+        530
+      ],
+      "monster_ids": [
+        104,
+        162,
+        167,
+        230
+      ],
+      "initial_monster_ids": [
+        162,
+        167,
+        104
+      ],
+      "profile_monster_ids": [
+        162,
+        167
+      ],
+      "native_hp_budget": 9500,
+      "effective_hp_budget": 7000,
+      "requirements": [
+        "transformation_or_spawn",
+        "random_encounter_location",
+        "destination_summon_reward",
+        "rescue_objective"
+      ],
+      "stats": [
+        {
+          "monster_id": 104,
+          "lv": 3,
+          "hp": 2500,
+          "mp": 1000,
+          "attack": 40,
+          "attack_count": 8,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 10
+        },
+        {
+          "monster_id": 162,
+          "lv": 37,
+          "hp": 3000,
+          "mp": 500,
+          "attack": 45,
+          "attack_count": 10,
+          "magic": 0,
+          "defense": 40,
+          "ability_defense": 20,
+          "agility": 30
+        },
+        {
+          "monster_id": 167,
+          "lv": 37,
+          "hp": 4000,
+          "mp": 1000,
+          "attack": 47,
+          "attack_count": 10,
+          "magic": 0,
+          "defense": 20,
+          "ability_defense": 20,
+          "agility": 35
+        },
+        {
+          "monster_id": 230,
+          "lv": 71,
+          "hp": 30000,
+          "mp": 1000,
+          "attack": 50,
+          "attack_count": 10,
+          "magic": 0,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 60
+        }
+      ]
+    },
+    {
+      "boss_id": "melusine",
+      "reference_rank": 34,
+      "name": "Melusine",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 481,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        340,
+        341,
+        342,
+        343
+      ],
+      "initial_monster_ids": [
+        340
+      ],
+      "profile_monster_ids": [
+        340,
+        341,
+        342,
+        343
+      ],
+      "native_hp_budget": 20000,
+      "effective_hp_budget": 20000,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 340,
+          "lv": 29,
+          "hp": 20000,
+          "mp": 500,
+          "attack": 49,
+          "attack_count": 13,
+          "magic": 5,
+          "defense": 90,
+          "ability_defense": 0,
+          "agility": 50
+        },
+        {
+          "monster_id": 341,
+          "lv": 29,
+          "hp": 20000,
+          "mp": 500,
+          "attack": 49,
+          "attack_count": 13,
+          "magic": 5,
+          "defense": 90,
+          "ability_defense": 0,
+          "agility": 50
+        },
+        {
+          "monster_id": 342,
+          "lv": 29,
+          "hp": 20000,
+          "mp": 500,
+          "attack": 49,
+          "attack_count": 13,
+          "magic": 5,
+          "defense": 90,
+          "ability_defense": 0,
+          "agility": 50
+        },
+        {
+          "monster_id": 343,
+          "lv": 33,
+          "hp": 20000,
+          "mp": 500,
+          "attack": 65,
+          "attack_count": 13,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 90,
+          "agility": 50
+        }
+      ]
+    },
+    {
+      "boss_id": "wendigo",
+      "reference_rank": 35,
+      "name": "Wendigo",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 488,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        352
+      ],
+      "initial_monster_ids": [
+        352,
+        352,
+        352,
+        352
+      ],
+      "profile_monster_ids": [
+        352
+      ],
+      "native_hp_budget": 80000,
+      "effective_hp_budget": 20000,
+      "requirements": [
+        "native_battle_script"
+      ],
+      "stats": [
+        {
+          "monster_id": 352,
+          "lv": 7,
+          "hp": 20000,
+          "mp": 8192,
+          "attack": 65,
+          "attack_count": 10,
+          "magic": 10,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "odin",
+      "reference_rank": 36,
+      "name": "Odin",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 482,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        344
+      ],
+      "initial_monster_ids": [
+        344
+      ],
+      "profile_monster_ids": [
+        344
+      ],
+      "native_hp_budget": 17000,
+      "effective_hp_budget": 17000,
+      "requirements": [
+        "native_battle_script",
+        "timer_adapter"
+      ],
+      "stats": [
+        {
+          "monster_id": 344,
+          "lv": 2,
+          "hp": 17000,
+          "mp": 500,
+          "attack": 60,
+          "attack_count": 10,
+          "magic": 50,
+          "defense": 20,
+          "ability_defense": 20,
+          "agility": 50
+        }
+      ]
+    },
+    {
+      "boss_id": "triton_nereid_phobos",
+      "reference_rank": 37,
+      "name": "Triton, Nereid and Phobos",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 484,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        346,
+        347,
+        348
+      ],
+      "initial_monster_ids": [
+        348,
+        346,
+        347
+      ],
+      "profile_monster_ids": [
+        346,
+        347,
+        348
+      ],
+      "native_hp_budget": 39999,
+      "effective_hp_budget": 39999,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 346,
+          "lv": 37,
+          "hp": 13333,
+          "mp": 10000,
+          "attack": 55,
+          "attack_count": 11,
+          "magic": 20,
+          "defense": 0,
+          "ability_defense": 25,
+          "agility": 35
+        },
+        {
+          "monster_id": 347,
+          "lv": 20,
+          "hp": 13333,
+          "mp": 10000,
+          "attack": 54,
+          "attack_count": 11,
+          "magic": 20,
+          "defense": 0,
+          "ability_defense": 25,
+          "agility": 40
+        },
+        {
+          "monster_id": 348,
+          "lv": 39,
+          "hp": 13333,
+          "mp": 10000,
+          "attack": 55,
+          "attack_count": 11,
+          "magic": 20,
+          "defense": 0,
+          "ability_defense": 25,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "omniscient",
+      "reference_rank": 38,
+      "name": "Omniscient",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 485,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        349
+      ],
+      "initial_monster_ids": [
+        349
+      ],
+      "profile_monster_ids": [
+        349
+      ],
+      "native_hp_budget": 16999,
+      "effective_hp_budget": 16999,
+      "requirements": [
+        "scaled_ai_thresholds",
+        "fork_tower_split_party"
+      ],
+      "stats": [
+        {
+          "monster_id": 349,
+          "lv": 53,
+          "hp": 16999,
+          "mp": 30000,
+          "attack": 100,
+          "attack_count": 20,
+          "magic": 20,
+          "defense": 0,
+          "ability_defense": 8,
+          "agility": 26
+        }
+      ]
+    },
+    {
+      "boss_id": "minotaur",
+      "reference_rank": 39,
+      "name": "Minotaur",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 486,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        350
+      ],
+      "initial_monster_ids": [
+        350
+      ],
+      "profile_monster_ids": [
+        350
+      ],
+      "native_hp_budget": 19850,
+      "effective_hp_budget": 19850,
+      "requirements": [
+        "native_battle_script",
+        "fork_tower_split_party"
+      ],
+      "stats": [
+        {
+          "monster_id": 350,
+          "lv": 37,
+          "hp": 19850,
+          "mp": 0,
+          "attack": 99,
+          "attack_count": 9,
+          "magic": 0,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "leviathan",
+      "reference_rank": 40,
+      "name": "Leviathan",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 487,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        351
+      ],
+      "initial_monster_ids": [
+        351
+      ],
+      "profile_monster_ids": [
+        351
+      ],
+      "native_hp_budget": 40000,
+      "effective_hp_budget": 40000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 351,
+          "lv": 37,
+          "hp": 40000,
+          "mp": 2000,
+          "attack": 85,
+          "attack_count": 16,
+          "magic": 1,
+          "defense": 25,
+          "ability_defense": 15,
+          "agility": 49
+        }
+      ]
+    },
+    {
+      "boss_id": "gogo",
+      "reference_rank": 41,
+      "name": "Famed Mimic Gogo",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 489,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        353
+      ],
+      "initial_monster_ids": [
+        353
+      ],
+      "profile_monster_ids": [
+        353
+      ],
+      "native_hp_budget": 47714,
+      "effective_hp_budget": 47714,
+      "requirements": [
+        "native_battle_script",
+        "scaled_ai_thresholds",
+        "timer_adapter"
+      ],
+      "stats": [
+        {
+          "monster_id": 353,
+          "lv": 77,
+          "hp": 47714,
+          "mp": 60000,
+          "attack": 120,
+          "attack_count": 25,
+          "magic": 35,
+          "defense": 30,
+          "ability_defense": 20,
+          "agility": 50
+        }
+      ]
+    },
+    {
+      "boss_id": "bahamut",
+      "reference_rank": 42,
+      "name": "Bahamut",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 490,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        354
+      ],
+      "initial_monster_ids": [
+        354
+      ],
+      "profile_monster_ids": [
+        354
+      ],
+      "native_hp_budget": 40000,
+      "effective_hp_budget": 40000,
+      "requirements": [
+        "scaled_ai_thresholds"
+      ],
+      "stats": [
+        {
+          "monster_id": 354,
+          "lv": 99,
+          "hp": 40000,
+          "mp": 10000,
+          "attack": 69,
+          "attack_count": 16,
+          "magic": 20,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "calofisteri",
+      "reference_rank": 43,
+      "name": "Calofisteri",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 499,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        366
+      ],
+      "initial_monster_ids": [
+        366
+      ],
+      "profile_monster_ids": [
+        366
+      ],
+      "native_hp_budget": 18000,
+      "effective_hp_budget": 18000,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 366,
+          "lv": 68,
+          "hp": 18000,
+          "mp": 1000,
+          "attack": 66,
+          "attack_count": 16,
+          "magic": 20,
+          "defense": 50,
+          "ability_defense": 30,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "apanda",
+      "reference_rank": 44,
+      "name": "Apanda",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 505,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        376
+      ],
+      "initial_monster_ids": [
+        376
+      ],
+      "profile_monster_ids": [
+        376
+      ],
+      "native_hp_budget": 22200,
+      "effective_hp_budget": 22200,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 376,
+          "lv": 59,
+          "hp": 22200,
+          "mp": 1000,
+          "attack": 73,
+          "attack_count": 18,
+          "magic": 50,
+          "defense": 23,
+          "ability_defense": 10,
+          "agility": 51
+        }
+      ]
+    },
+    {
+      "boss_id": "azulmagia",
+      "reference_rank": 45,
+      "name": "Azulmagia",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 500,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        367
+      ],
+      "initial_monster_ids": [
+        367
+      ],
+      "profile_monster_ids": [
+        367
+      ],
+      "native_hp_budget": 27900,
+      "effective_hp_budget": 27900,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 367,
+          "lv": 57,
+          "hp": 27900,
+          "mp": 50000,
+          "attack": 65,
+          "attack_count": 21,
+          "magic": 50,
+          "defense": 30,
+          "ability_defense": 70,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "catastrophe",
+      "reference_rank": 46,
+      "name": "Catastrophe",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 501,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        368
+      ],
+      "initial_monster_ids": [
+        368
+      ],
+      "profile_monster_ids": [
+        368
+      ],
+      "native_hp_budget": 19997,
+      "effective_hp_budget": 19997,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 368,
+          "lv": 71,
+          "hp": 19997,
+          "mp": 19997,
+          "attack": 67,
+          "attack_count": 18,
+          "magic": 20,
+          "defense": 40,
+          "ability_defense": 20,
+          "agility": 45
+        }
+      ]
+    },
+    {
+      "boss_id": "halicarnassus",
+      "reference_rank": 47,
+      "name": "Halicarnassus",
+      "tier": "simple",
+      "world": 3,
+      "formation_id": 479,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        356
+      ],
+      "initial_monster_ids": [
+        356
+      ],
+      "profile_monster_ids": [
+        356
+      ],
+      "native_hp_budget": 33333,
+      "effective_hp_budget": 33333,
+      "requirements": [],
+      "stats": [
+        {
+          "monster_id": 356,
+          "lv": 97,
+          "hp": 33333,
+          "mp": 5000,
+          "attack": 65,
+          "attack_count": 12,
+          "magic": 250,
+          "defense": 10,
+          "ability_defense": 20,
+          "agility": 40
+        }
+      ]
+    },
+    {
+      "boss_id": "twintania",
+      "reference_rank": 48,
+      "name": "Twintania",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 503,
+      "formation_alias_ids": [],
+      "monster_ids": [
+        284,
+        370
+      ],
+      "initial_monster_ids": [
+        370
+      ],
+      "profile_monster_ids": [
+        284,
+        370
+      ],
+      "native_hp_budget": 50000,
+      "effective_hp_budget": 50000,
+      "requirements": [
+        "transformation_or_spawn"
+      ],
+      "stats": [
+        {
+          "monster_id": 284,
+          "lv": 30,
+          "hp": 50000,
+          "mp": 10000,
+          "attack": 90,
+          "attack_count": 13,
+          "magic": 72,
+          "defense": 0,
+          "ability_defense": 0,
+          "agility": 81
+        },
+        {
+          "monster_id": 370,
+          "lv": 39,
+          "hp": 50000,
+          "mp": 10000,
+          "attack": 90,
+          "attack_count": 14,
+          "magic": 7,
+          "defense": 30,
+          "ability_defense": 16,
+          "agility": 35
+        }
+      ]
+    },
+    {
+      "boss_id": "necrophobe",
+      "reference_rank": 49,
+      "name": "Necrophobe",
+      "tier": "complex",
+      "world": 3,
+      "formation_id": 502,
+      "formation_alias_ids": [
+        609
+      ],
+      "monster_ids": [
+        369,
+        386,
+        391,
+        477,
+        488,
+        489
+      ],
+      "initial_monster_ids": [
+        386,
+        386,
+        369,
+        386,
+        386
+      ],
+      "profile_monster_ids": [
+        369,
+        386,
+        477,
+        488,
+        489
+      ],
+      "native_hp_budget": 79244,
+      "effective_hp_budget": 79244,
+      "requirements": [
+        "native_battle_script",
+        "transformation_or_spawn",
+        "scaled_ai_thresholds",
+        "native_syscall_adapter"
+      ],
+      "stats": [
+        {
+          "monster_id": 369,
+          "lv": 66,
+          "hp": 44044,
+          "mp": 10000,
+          "attack": 99,
+          "attack_count": 16,
+          "magic": 50,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 47
+        },
+        {
+          "monster_id": 386,
+          "lv": 44,
+          "hp": 8800,
+          "mp": 300,
+          "attack": 100,
+          "attack_count": 10,
+          "magic": 5,
+          "defense": 30,
+          "ability_defense": 10,
+          "agility": 1
+        },
+        {
+          "monster_id": 391,
+          "lv": 93,
+          "hp": 55000,
+          "mp": 60000,
+          "attack": 115,
+          "attack_count": 25,
+          "magic": 0,
+          "defense": 35,
+          "ability_defense": 0,
+          "agility": 88
+        },
+        {
+          "monster_id": 477,
+          "lv": 66,
+          "hp": 44044,
+          "mp": 10000,
+          "attack": 99,
+          "attack_count": 16,
+          "magic": 50,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 47
+        },
+        {
+          "monster_id": 488,
+          "lv": 66,
+          "hp": 44044,
+          "mp": 10000,
+          "attack": 99,
+          "attack_count": 16,
+          "magic": 50,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 47
+        },
+        {
+          "monster_id": 489,
+          "lv": 66,
+          "hp": 44044,
+          "mp": 10000,
+          "attack": 99,
+          "attack_count": 16,
+          "magic": 50,
+          "defense": 50,
+          "ability_defense": 50,
+          "agility": 47
+        }
+      ]
+    }
+  ],
+  "incompatible_placements": []
+}

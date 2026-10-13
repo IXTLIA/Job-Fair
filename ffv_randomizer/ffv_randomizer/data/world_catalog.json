@@ -1,0 +1,6316 @@
+{
+  "catalog_id": "mixed-native-jobs-world-treasure-v2",
+  "locations": [
+    {
+      "id": "native_cache_sc_e_0362",
+      "world": 1,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 163,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_30161/Map_30161_2/sc_e_0362.json:7",
+          "source": {
+            "map_name": "Map_30161_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_cache_sc_e_0362_1",
+      "world": 1,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 13,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_20020/Map_20020/sc_e_0362_1.json:7",
+          "source": {
+            "map_name": "Map_20020"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_cache_sc_e_0362_2",
+      "world": 2,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 13,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_20171/Map_20171_7/sc_e_0362_2.json:7",
+          "source": {
+            "map_name": "Map_20171_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_cache_sc_e_0362_3",
+      "world": 1,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 13,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_20051/Map_20051_7/sc_e_0362_3.json:7",
+          "source": {
+            "map_name": "Map_20051_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_cache_sc_e_0362_4",
+      "world": 1,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 13,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_20051/Map_20051_7/sc_e_0362_4.json:7",
+          "source": {
+            "map_name": "Map_20051_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_cache_sc_e_0524",
+      "world": 3,
+      "native_reward": {
+        "kind": "item",
+        "content_id": 23,
+        "quantity": 1
+      },
+      "bindings": [
+        {
+          "id": "script:Res/Map/Map_30521/Map_30521_9/sc_e_0524.json:4",
+          "source": {
+            "map_name": "Map_30521_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_000",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20010/Map_20010/entity_default.json:23",
+          "source": {
+            "map_name": "Map_20010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_001",
+      "world": 1,
+      "native_reward": {
+        "content_id": 251,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 251,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20010/Map_20010/entity_default.json:24",
+          "source": {
+            "map_name": "Map_20010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_002",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20010/Map_20010/entity_default.json:25",
+          "source": {
+            "map_name": "Map_20010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_003",
+      "world": 1,
+      "native_reward": {
+        "content_id": 2,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 2,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20010/Map_20010/entity_default.json:26",
+          "source": {
+            "map_name": "Map_20010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_004",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 150
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 150
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20010/Map_20010/entity_default.json:27",
+          "source": {
+            "map_name": "Map_20010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_005",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_1/entity_default.json:5",
+          "source": {
+            "map_name": "Map_20011_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_006",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 100
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 100
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_1/entity_default.json:6",
+          "source": {
+            "map_name": "Map_20011_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_007",
+      "world": 1,
+      "native_reward": {
+        "content_id": 2,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 2,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_1/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20011_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_008",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_1/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20011_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_009",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_1/entity_default.json:9",
+          "source": {
+            "map_name": "Map_20011_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_010",
+      "world": 1,
+      "native_reward": {
+        "content_id": 251,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 251,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20011/Map_20011_2/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20011_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_011",
+      "world": 1,
+      "native_reward": {
+        "content_id": 6,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 6,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20020/Map_20020/entity_default.json:35",
+          "source": {
+            "map_name": "Map_20020"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_012",
+      "world": 1,
+      "native_reward": {
+        "content_id": 129,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 129,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20020/Map_20020/entity_default.json:36",
+          "source": {
+            "map_name": "Map_20020"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_014",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 1000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 1000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20021/Map_20021_6/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20021_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_015",
+      "world": 1,
+      "native_reward": {
+        "content_id": 261,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 261,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20031/Map_20031_1/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20031_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_016",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_5/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20041_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_017",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 490
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 490
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_5/entity_default.json:4",
+          "source": {
+            "map_name": "Map_20041_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_018",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_5/entity_default.json:5",
+          "source": {
+            "map_name": "Map_20041_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_019",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 1000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 1000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_10/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20041_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_020",
+      "world": 1,
+      "native_reward": {
+        "content_id": 410,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 410,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_10/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20041_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_021",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 1000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 1000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_10/entity_default.json:9",
+          "source": {
+            "map_name": "Map_20041_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_022",
+      "world": 1,
+      "native_reward": {
+        "content_id": 262,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 262,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20041/Map_20041_10/entity_default.json:10",
+          "source": {
+            "map_name": "Map_20041_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_023",
+      "world": 1,
+      "native_reward": {
+        "content_id": 168,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 168,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_5/entity_default.json:6",
+          "source": {
+            "map_name": "Map_20051_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_024",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_5/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20051_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_025",
+      "world": 1,
+      "native_reward": {
+        "content_id": 118,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 118,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_5/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20051_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_028",
+      "world": 1,
+      "native_reward": {
+        "content_id": 3,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 3,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_8/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20051_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_029",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_10/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20051_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_030",
+      "world": 1,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_10/entity_default.json:4",
+          "source": {
+            "map_name": "Map_20051_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_031",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_10/entity_default.json:5",
+          "source": {
+            "map_name": "Map_20051_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_032",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_10/entity_default.json:6",
+          "source": {
+            "map_name": "Map_20051_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_033",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_14/entity_default.json:5",
+          "source": {
+            "map_name": "Map_20051_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_034",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_14/entity_default.json:6",
+          "source": {
+            "map_name": "Map_20051_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_035",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_14/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20051_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_036",
+      "world": 1,
+      "native_reward": {
+        "content_id": 9,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 9,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20051/Map_20051_14/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20051_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_037",
+      "world": 1,
+      "native_reward": {
+        "content_id": 128,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 128,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20060/Map_20060/entity_default.json:87",
+          "source": {
+            "map_name": "Map_20060"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_038",
+      "world": 2,
+      "native_reward": {
+        "content_id": 262,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 262,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_1/ev_e_0434.json:15",
+          "source": {
+            "map_name": "Map_20131_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_039",
+      "world": 2,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:19",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_040",
+      "world": 2,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:20",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_041",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 10000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 10000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:21",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_042",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:22",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_043",
+      "world": 2,
+      "native_reward": {
+        "content_id": 66,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 66,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:17",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_044",
+      "world": 2,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20131/Map_20131_3/entity_default.json:18",
+          "source": {
+            "map_name": "Map_20131_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_045",
+      "world": 2,
+      "native_reward": {
+        "content_id": 64,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 64,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20160/Map_20160/entity_default.json:38",
+          "source": {
+            "map_name": "Map_20160"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_046",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 5000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 5000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20171/Map_20171_7/entity_default.json:32",
+          "source": {
+            "map_name": "Map_20171_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_047",
+      "world": 2,
+      "native_reward": {
+        "content_id": 415,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 415,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20171/Map_20171_7/entity_default.json:33",
+          "source": {
+            "map_name": "Map_20171_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_049",
+      "world": 2,
+      "native_reward": {
+        "content_id": 84,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 84,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20190/Map_20190/entity_default.json:114",
+          "source": {
+            "map_name": "Map_20190"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_050",
+      "world": 2,
+      "native_reward": {
+        "content_id": 214,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 214,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20191/Map_20191_1/entity_default.json:36",
+          "source": {
+            "map_name": "Map_20191_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_051",
+      "world": 2,
+      "native_reward": {
+        "content_id": 19,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 19,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20191/Map_20191_7/entity_default.json:18",
+          "source": {
+            "map_name": "Map_20191_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_052",
+      "world": 2,
+      "native_reward": {
+        "content_id": 418,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 418,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20191/Map_20191_7/entity_default.json:19",
+          "source": {
+            "map_name": "Map_20191_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_053",
+      "world": 3,
+      "native_reward": {
+        "content_id": 68,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 68,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20201/Map_20201_3/entity_default.json:14",
+          "source": {
+            "map_name": "Map_20201_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_054",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30010/Map_30010/entity_default.json:1",
+          "source": {
+            "map_name": "Map_30010"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_055",
+      "world": 1,
+      "native_reward": {
+        "content_id": 190,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 190,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30021/Map_30021_2/entity_default.json:30",
+          "source": {
+            "map_name": "Map_30021_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_056",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30021/Map_30021_5/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30021_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_057",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30021/Map_30021_5/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30021_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_058",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 300
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 300
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30021/Map_30021_5/entity_default.json:25",
+          "source": {
+            "map_name": "Map_30021_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_059",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30041/Map_30041_2/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30041_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_060",
+      "world": 1,
+      "native_reward": {
+        "content_id": 190,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 190,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30041/Map_30041_4/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30041_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_061",
+      "world": 1,
+      "native_reward": {
+        "content_id": 77,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 77,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30041/Map_30041_5/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30041_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_062",
+      "world": 1,
+      "native_reward": {
+        "content_id": 136,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 136,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30041/Map_30041_7/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30041_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_063",
+      "world": 1,
+      "native_reward": {
+        "content_id": 143,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 143,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30060/Map_30060/entity_default.json:55",
+          "source": {
+            "map_name": "Map_30060"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_064",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_3/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30061_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_065",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 990
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 990
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_4/entity_default.json:1",
+          "source": {
+            "map_name": "Map_30061_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_066",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_5/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30061_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_067",
+      "world": 1,
+      "native_reward": {
+        "content_id": 2,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 2,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_7/entity_default.json:1",
+          "source": {
+            "map_name": "Map_30061_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_068",
+      "world": 1,
+      "native_reward": {
+        "content_id": 6,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 6,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_14/entity_default.json:4",
+          "source": {
+            "map_name": "Map_30061_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_069",
+      "world": 1,
+      "native_reward": {
+        "content_id": 6,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 6,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_14/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30061_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_070",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30061/Map_30061_14/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30061_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_071",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30071/Map_30071_1/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30071_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_072",
+      "world": 1,
+      "native_reward": {
+        "content_id": 8,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 8,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30071/Map_30071_1/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30071_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_073",
+      "world": 1,
+      "native_reward": {
+        "content_id": 9,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 9,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30121/Map_30121_5/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30121_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_074",
+      "world": 1,
+      "native_reward": {
+        "content_id": 227,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 227,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30121/Map_30121_5/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30121_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_075",
+      "world": 1,
+      "native_reward": {
+        "content_id": 247,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 247,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30121/Map_30121_9/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30121_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_076",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30121/Map_30121_9/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30121_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_077",
+      "world": 1,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_3/entity_default.json:22",
+          "source": {
+            "map_name": "Map_30151_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_078",
+      "world": 1,
+      "native_reward": {
+        "content_id": 242,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 242,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_4/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30151_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_079",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_5/entity_default.json:17",
+          "source": {
+            "map_name": "Map_30151_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_080",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_6/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30151_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_081",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_8/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30151_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_082",
+      "world": 1,
+      "native_reward": {
+        "content_id": 172,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 172,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_9/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30151_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_083",
+      "world": 1,
+      "native_reward": {
+        "content_id": 194,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 194,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_11/entity_default.json:35",
+          "source": {
+            "map_name": "Map_30151_11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_084",
+      "world": 1,
+      "native_reward": {
+        "content_id": 243,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 243,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_11/entity_default.json:34",
+          "source": {
+            "map_name": "Map_30151_11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_085",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30151/Map_30151_20/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30151_20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_086",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 2000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 2000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_6/entity_default.json:19",
+          "source": {
+            "map_name": "Map_20071_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_087",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_6/entity_default.json:20",
+          "source": {
+            "map_name": "Map_20071_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_088",
+      "world": 1,
+      "native_reward": {
+        "content_id": 203,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 203,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_5/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20071_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_089",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_5/entity_default.json:8",
+          "source": {
+            "map_name": "Map_20071_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_090",
+      "world": 1,
+      "native_reward": {
+        "content_id": 385,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 385,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_1/entity_default.json:24",
+          "source": {
+            "map_name": "Map_20071_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_091",
+      "world": 1,
+      "native_reward": {
+        "content_id": 26,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 26,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_1/entity_default.json:25",
+          "source": {
+            "map_name": "Map_20071_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_092",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 2000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 2000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:13",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_093",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:14",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_094",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:15",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_095",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 2000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 2000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:16",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_096",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:17",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_097",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:18",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_098",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_10/entity_default.json:19",
+          "source": {
+            "map_name": "Map_20071_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_099",
+      "world": 1,
+      "native_reward": {
+        "content_id": 262,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 262,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_13/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20071_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_100",
+      "world": 1,
+      "native_reward": {
+        "content_id": 64,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 64,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20071/Map_20071_16/entity_default.json:3",
+          "source": {
+            "map_name": "Map_20071_16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_101",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20221/Map_20221_5/entity_default.json:5",
+          "source": {
+            "map_name": "Map_20221_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_102",
+      "world": 1,
+      "native_reward": {
+        "content_id": 221,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 221,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20221/Map_20221_6/entity_default.json:29",
+          "source": {
+            "map_name": "Map_20221_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_103",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20221/Map_20221_9/entity_default.json:7",
+          "source": {
+            "map_name": "Map_20221_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_105",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30161/Map_30161_2/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30161_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_106",
+      "world": 1,
+      "native_reward": {
+        "content_id": 12,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 12,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30161/Map_30161_2/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30161_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_107",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20231/Map_20231_4/entity_default.json:11",
+          "source": {
+            "map_name": "Map_20231_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_108",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20231/Map_20231_4/entity_default.json:12",
+          "source": {
+            "map_name": "Map_20231_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_109",
+      "world": 1,
+      "native_reward": {
+        "content_id": 379,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 379,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_20231/Map_20231_4/entity_default.json:13",
+          "source": {
+            "map_name": "Map_20231_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_110",
+      "world": 1,
+      "native_reward": {
+        "content_id": 237,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 237,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_2/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30191_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_111",
+      "world": 1,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_3/entity_default.json:17",
+          "source": {
+            "map_name": "Map_30191_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_112",
+      "world": 1,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_3/entity_default.json:18",
+          "source": {
+            "map_name": "Map_30191_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_113",
+      "world": 1,
+      "native_reward": {
+        "content_id": 182,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 182,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_3/entity_default.json:19",
+          "source": {
+            "map_name": "Map_30191_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_114",
+      "world": 1,
+      "native_reward": {
+        "content_id": 3,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 3,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:63",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:63",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_115",
+      "world": 1,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 5000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 5000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:64",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:64",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_116",
+      "world": 1,
+      "native_reward": {
+        "content_id": 28,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 28,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:65",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:65",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_117",
+      "world": 1,
+      "native_reward": {
+        "content_id": 81,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 81,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:66",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:66",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_118",
+      "world": 1,
+      "native_reward": {
+        "content_id": 172,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 172,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:67",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:67",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_119",
+      "world": 1,
+      "native_reward": {
+        "content_id": 248,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 248,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_11/entity_default.json:68",
+          "source": {
+            "map_name": "Map_30191_11"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_5/entity_default.json:68",
+          "source": {
+            "map_name": "Map_30191_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_120",
+      "world": 1,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_12/entity_default.json:43",
+          "source": {
+            "map_name": "Map_30191_12"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_6/entity_default.json:43",
+          "source": {
+            "map_name": "Map_30191_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_121",
+      "world": 1,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_12/entity_default.json:44",
+          "source": {
+            "map_name": "Map_30191_12"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30191/Map_30191_6/entity_default.json:44",
+          "source": {
+            "map_name": "Map_30191_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_123",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 4400
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 4400
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30241/Map_30241_1/entity_default.json:15",
+          "source": {
+            "map_name": "Map_30241_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_124",
+      "world": 2,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30241/Map_30241_1/entity_default.json:28",
+          "source": {
+            "map_name": "Map_30241_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_125",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 5000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 5000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30261/Map_30261_1/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30261_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_126",
+      "world": 2,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30271/Map_30271_1/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30271_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_127",
+      "world": 2,
+      "native_reward": {
+        "content_id": 225,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 225,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30290/Map_30290/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30290"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_128",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 7000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 7000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30291/Map_30291_2/entity_default.json:4",
+          "source": {
+            "map_name": "Map_30291_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_129",
+      "world": 2,
+      "native_reward": {
+        "content_id": 192,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 192,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30291/Map_30291_3/entity_default.json:18",
+          "source": {
+            "map_name": "Map_30291_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_130",
+      "world": 2,
+      "native_reward": {
+        "content_id": 119,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 119,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30291/Map_30291_3/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30291_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_131",
+      "world": 2,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30291/Map_30291_3/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30291_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_132",
+      "world": 2,
+      "native_reward": {
+        "content_id": 90,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 90,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30331/Map_30331_5/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30331_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_133",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 9000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 9000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30331/Map_30331_5/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30331_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_134",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 18000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 18000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30351/Map_30351_1/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30351_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_135",
+      "world": 2,
+      "native_reward": {
+        "content_id": 202,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 202,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30371/Map_30371_1/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30371_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_136",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 2500
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 2500
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_137",
+      "world": 2,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_138",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 4900
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 4900
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30410/Map_30410/entity_default.json:74",
+          "source": {
+            "map_name": "Map_30410"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_139",
+      "world": 2,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30410/Map_30410/entity_default.json:76",
+          "source": {
+            "map_name": "Map_30410"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_140",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 9500
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 9500
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30410/Map_30410/entity_default.json:78",
+          "source": {
+            "map_name": "Map_30410"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_141",
+      "world": 2,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:19",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:19",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_142",
+      "world": 2,
+      "native_reward": {
+        "content_id": 15,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 15,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:20",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:20",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_143",
+      "world": 2,
+      "native_reward": {
+        "content_id": 144,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 144,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:21",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:21",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_144",
+      "world": 2,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:22",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:22",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_146",
+      "world": 2,
+      "native_reward": {
+        "content_id": 183,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 183,
+          "kind": "item",
+          "quantity": 1
+        },
+        {
+          "content_id": 185,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30400/Map_30400/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30400"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30420/Map_30420/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30420"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30430/Map_30430/entity_default.json:25",
+          "source": {
+            "map_name": "Map_30430"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_147",
+      "world": 2,
+      "native_reward": {
+        "content_id": 27,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 27,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30430/Map_30430/entity_default.json:20",
+          "source": {
+            "map_name": "Map_30430"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_148",
+      "world": 2,
+      "native_reward": {
+        "content_id": 88,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 88,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30430/Map_30430/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30430"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_149",
+      "world": 2,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30221/Map_30221_8/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30221_8"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_8/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30441_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_150",
+      "world": 2,
+      "native_reward": {
+        "content_id": 184,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 184,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30221/Map_30221_8/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30221_8"
+          }
+        },
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_8/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30441_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_151",
+      "world": 2,
+      "native_reward": {
+        "content_id": 186,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 186,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_10/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30441_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_152",
+      "world": 2,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_11/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30441_11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_153",
+      "world": 2,
+      "native_reward": {
+        "content_id": 153,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 153,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_12/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30441_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_154",
+      "world": 2,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_12/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30441_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_155",
+      "world": 2,
+      "native_reward": {
+        "content_id": 89,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 89,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_13/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30441_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_156",
+      "world": 2,
+      "native_reward": {
+        "content_id": 121,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 121,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_13/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30441_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_157",
+      "world": 2,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_15/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30441_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_158",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 9900
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 9900
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_15/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30441_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_159",
+      "world": 2,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 8000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 8000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_17/entity_default.json:25",
+          "source": {
+            "map_name": "Map_30441_17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_160",
+      "world": 2,
+      "native_reward": {
+        "content_id": 102,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 102,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_17/entity_default.json:26",
+          "source": {
+            "map_name": "Map_30441_17"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_161",
+      "world": 2,
+      "native_reward": {
+        "content_id": 103,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 103,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_20/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30441_20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_162",
+      "world": 2,
+      "native_reward": {
+        "content_id": 29,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 29,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30441/Map_30441_20/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30441_20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_163",
+      "world": 3,
+      "native_reward": {
+        "content_id": 186,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 186,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_2/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30461_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_164",
+      "world": 3,
+      "native_reward": {
+        "content_id": 259,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 259,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_4/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30461_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_165",
+      "world": 3,
+      "native_reward": {
+        "content_id": 185,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 185,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_6/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30461_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_166",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_6/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30461_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_167",
+      "world": 3,
+      "native_reward": {
+        "content_id": 232,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 232,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_6/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30461_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_168",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_7/entity_default.json:15",
+          "source": {
+            "map_name": "Map_30461_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_169",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_7/entity_default.json:17",
+          "source": {
+            "map_name": "Map_30461_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_170",
+      "world": 3,
+      "native_reward": {
+        "content_id": 212,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 212,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_7/entity_default.json:16",
+          "source": {
+            "map_name": "Map_30461_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_171",
+      "world": 3,
+      "native_reward": {
+        "content_id": 231,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 231,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_7/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30461_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_172",
+      "world": 3,
+      "native_reward": {
+        "content_id": 224,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 224,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_9/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30461_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_173",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_9/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30461_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_174",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_10/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30461_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_175",
+      "world": 3,
+      "native_reward": {
+        "content_id": 239,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 239,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_10/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30461_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_176",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_12/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30461_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_177",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_12/entity_default.json:18",
+          "source": {
+            "map_name": "Map_30461_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_178",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 9000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 9000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_12/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30461_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_179",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 8000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 8000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_12/entity_default.json:19",
+          "source": {
+            "map_name": "Map_30461_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_180",
+      "world": 3,
+      "native_reward": {
+        "content_id": 113,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 113,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_13/entity_default.json:15",
+          "source": {
+            "map_name": "Map_30461_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_181",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 10000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 10000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_13/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30461_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_182",
+      "world": 3,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_13/entity_default.json:17",
+          "source": {
+            "map_name": "Map_30461_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_183",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_13/entity_default.json:21",
+          "source": {
+            "map_name": "Map_30461_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_184",
+      "world": 3,
+      "native_reward": {
+        "content_id": 203,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 203,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_14/entity_default.json:24",
+          "source": {
+            "map_name": "Map_30461_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_185",
+      "world": 3,
+      "native_reward": {
+        "content_id": 258,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 258,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_14/entity_default.json:28",
+          "source": {
+            "map_name": "Map_30461_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_186",
+      "world": 3,
+      "native_reward": {
+        "content_id": 202,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 202,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_14/entity_default.json:26",
+          "source": {
+            "map_name": "Map_30461_14"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_187",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 12000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 12000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_15/entity_default.json:20",
+          "source": {
+            "map_name": "Map_30461_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_188",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_15/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30461_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_189",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_15/entity_default.json:26",
+          "source": {
+            "map_name": "Map_30461_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_190",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30461/Map_30461_15/entity_default.json:24",
+          "source": {
+            "map_name": "Map_30461_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_191",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 12000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 12000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_2/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30471_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_192",
+      "world": 3,
+      "native_reward": {
+        "content_id": 3,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 3,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_4/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30471_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_193",
+      "world": 3,
+      "native_reward": {
+        "content_id": 18,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 18,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_4/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30471_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_194",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 9000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 9000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_5/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30471_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_195",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_6/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30471_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_196",
+      "world": 3,
+      "native_reward": {
+        "content_id": 173,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 173,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_7/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30471_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_197",
+      "world": 3,
+      "native_reward": {
+        "content_id": 258,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 258,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_9/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30471_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_198",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_9/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30471_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_199",
+      "world": 3,
+      "native_reward": {
+        "content_id": 209,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 209,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_9/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30471_9"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_200",
+      "world": 3,
+      "native_reward": {
+        "content_id": 165,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 165,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_11/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30471_11"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_201",
+      "world": 3,
+      "native_reward": {
+        "content_id": 21,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 21,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_13/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30471_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_202",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_13/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30471_13"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_203",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_16/entity_default.json:16",
+          "source": {
+            "map_name": "Map_30471_16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_204",
+      "world": 3,
+      "native_reward": {
+        "content_id": 201,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 201,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30471/Map_30471_16/entity_default.json:17",
+          "source": {
+            "map_name": "Map_30471_16"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_205",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30491/Map_30491_3/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30491_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_206",
+      "world": 3,
+      "native_reward": {
+        "content_id": 134,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 134,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30491/Map_30491_6/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30491_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_207",
+      "world": 3,
+      "native_reward": {
+        "content_id": 3,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 3,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30501/Map_30501_3/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30501_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_208",
+      "world": 3,
+      "native_reward": {
+        "content_id": 91,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 91,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30501/Map_30501_6/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30501_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_209",
+      "world": 3,
+      "native_reward": {
+        "content_id": 25,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 25,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_2/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30611_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_210",
+      "world": 3,
+      "native_reward": {
+        "content_id": 255,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 255,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_5/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30611_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_211",
+      "world": 3,
+      "native_reward": {
+        "content_id": 21,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 21,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_6/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30611_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_212",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_7/entity_default.json:22",
+          "source": {
+            "map_name": "Map_30611_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_213",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_7/entity_default.json:23",
+          "source": {
+            "map_name": "Map_30611_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_214",
+      "world": 3,
+      "native_reward": {
+        "content_id": 260,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 260,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30611/Map_30611_12/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30611_12"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_215",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_1/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30521_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_216",
+      "world": 3,
+      "native_reward": {
+        "content_id": 20,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 20,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_1/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30521_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_217",
+      "world": 3,
+      "native_reward": {
+        "content_id": 67,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 67,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_1/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30521_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_218",
+      "world": 3,
+      "native_reward": {
+        "content_id": 15,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 15,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_3/entity_default.json:54",
+          "source": {
+            "map_name": "Map_30521_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_219",
+      "world": 3,
+      "native_reward": {
+        "content_id": 83,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 83,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_3/entity_default.json:29",
+          "source": {
+            "map_name": "Map_30521_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_220",
+      "world": 3,
+      "native_reward": {
+        "content_id": 258,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 258,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_3/entity_default.json:25",
+          "source": {
+            "map_name": "Map_30521_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_221",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_4/entity_default.json:10",
+          "source": {
+            "map_name": "Map_30521_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_222",
+      "world": 3,
+      "native_reward": {
+        "content_id": 257,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 257,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_4/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30521_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_223",
+      "world": 3,
+      "native_reward": {
+        "content_id": 86,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 86,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_4/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30521_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_224",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 12000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 12000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_6/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30521_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_225",
+      "world": 3,
+      "native_reward": {
+        "content_id": 156,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 156,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_7/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30521_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_226",
+      "world": 3,
+      "native_reward": {
+        "content_id": 183,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 183,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_8/entity_default.json:4",
+          "source": {
+            "map_name": "Map_30521_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_227",
+      "world": 3,
+      "native_reward": {
+        "content_id": 29,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 29,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_8/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30521_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_228",
+      "world": 3,
+      "native_reward": {
+        "content_id": 116,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 116,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30521/Map_30521_8/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30521_8"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_229",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 5000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 5000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_5/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30541_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_230",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_5/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30541_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_231",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 10000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 10000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_10/entity_default.json:11",
+          "source": {
+            "map_name": "Map_30541_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_232",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_10/entity_default.json:12",
+          "source": {
+            "map_name": "Map_30541_10"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_233",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_15/entity_default.json:20",
+          "source": {
+            "map_name": "Map_30541_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_234",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 15000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 15000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_15/entity_default.json:21",
+          "source": {
+            "map_name": "Map_30541_15"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_235",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 20000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 20000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_20/entity_default.json:24",
+          "source": {
+            "map_name": "Map_30541_20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_236",
+      "world": 3,
+      "native_reward": {
+        "content_id": 4,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 4,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_20/entity_default.json:25",
+          "source": {
+            "map_name": "Map_30541_20"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_237",
+      "world": 3,
+      "native_reward": {
+        "content_id": 154,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 154,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_25/entity_default.json:28",
+          "source": {
+            "map_name": "Map_30541_25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_238",
+      "world": 3,
+      "native_reward": {
+        "content_id": 1,
+        "kind": "gil",
+        "quantity": 25000
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 1,
+          "kind": "gil",
+          "quantity": 25000
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30541/Map_30541_25/entity_default.json:29",
+          "source": {
+            "map_name": "Map_30541_25"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_239",
+      "world": 3,
+      "native_reward": {
+        "content_id": 5,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 5,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_3/entity_default.json:13",
+          "source": {
+            "map_name": "Map_30551_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_240",
+      "world": 3,
+      "native_reward": {
+        "content_id": 13,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 13,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_3/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30551_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_241",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_3/entity_default.json:15",
+          "source": {
+            "map_name": "Map_30551_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_242",
+      "world": 3,
+      "native_reward": {
+        "content_id": 22,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 22,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_3/entity_default.json:16",
+          "source": {
+            "map_name": "Map_30551_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_243",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_4/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30551_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_244",
+      "world": 3,
+      "native_reward": {
+        "content_id": 90,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 90,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30551/Map_30551_5/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30551_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_245",
+      "world": 3,
+      "native_reward": {
+        "content_id": 21,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 21,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30570/Map_30570/entity_default.json:5",
+          "source": {
+            "map_name": "Map_30570"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_246",
+      "world": 3,
+      "native_reward": {
+        "content_id": 132,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 132,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30570/Map_30570/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30570"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_247",
+      "world": 3,
+      "native_reward": {
+        "content_id": 86,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 86,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30570/Map_30570/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30570"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_248",
+      "world": 3,
+      "native_reward": {
+        "content_id": 203,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 203,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30570/Map_30570/entity_default.json:8",
+          "source": {
+            "map_name": "Map_30570"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_249",
+      "world": 3,
+      "native_reward": {
+        "content_id": 256,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 256,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30571/Map_30571_3/entity_default.json:6",
+          "source": {
+            "map_name": "Map_30571_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_250",
+      "world": 3,
+      "native_reward": {
+        "content_id": 254,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 254,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30571/Map_30571_4/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30571_4"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_251",
+      "world": 3,
+      "native_reward": {
+        "content_id": 115,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 115,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30591/Map_30591_5/entity_default.json:4",
+          "source": {
+            "map_name": "Map_30591_5"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_252",
+      "world": 3,
+      "native_reward": {
+        "content_id": 252,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 252,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30591/Map_30591_6/entity_default.json:4",
+          "source": {
+            "map_name": "Map_30591_6"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_253",
+      "world": 3,
+      "native_reward": {
+        "content_id": 253,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 253,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30591/Map_30591_7/entity_default.json:54",
+          "source": {
+            "map_name": "Map_30591_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_254",
+      "world": 3,
+      "native_reward": {
+        "content_id": 216,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 216,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30591/Map_30591_7/entity_default.json:55",
+          "source": {
+            "map_name": "Map_30591_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_255",
+      "world": 3,
+      "native_reward": {
+        "content_id": 70,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 70,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30591/Map_30591_7/entity_default.json:56",
+          "source": {
+            "map_name": "Map_30591_7"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_256",
+      "world": 3,
+      "native_reward": {
+        "content_id": 29,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 29,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30601/Map_30601_1/entity_default.json:3",
+          "source": {
+            "map_name": "Map_30601_1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_257",
+      "world": 3,
+      "native_reward": {
+        "content_id": 29,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 29,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30601/Map_30601_2/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30601_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_258",
+      "world": 3,
+      "native_reward": {
+        "content_id": 14,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 14,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30601/Map_30601_2/entity_default.json:9",
+          "source": {
+            "map_name": "Map_30601_2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_259",
+      "world": 3,
+      "native_reward": {
+        "content_id": 29,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 29,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30601/Map_30601_3/entity_default.json:7",
+          "source": {
+            "map_name": "Map_30601_3"
+          }
+        }
+      ]
+    },
+    {
+      "id": "native_treasure_260",
+      "world": 3,
+      "native_reward": {
+        "content_id": 93,
+        "kind": "item",
+        "quantity": 1
+      },
+      "native_reward_variants": [
+        {
+          "content_id": 93,
+          "kind": "item",
+          "quantity": 1
+        }
+      ],
+      "bindings": [
+        {
+          "id": "entity:Res/Map/Map_30601/Map_30601_3/entity_default.json:14",
+          "source": {
+            "map_name": "Map_30601_3"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "catalog_id": "remixed-world-travel-slice-v1",
+  "keys": [
+    {
+      "id": "world_2_key",
+      "allowed_worlds": [
+        1
+      ]
+    },
+    {
+      "id": "world_3_key",
+      "allowed_worlds": [
+        1,
+        2
+      ]
+    }
+  ],
+  "key_candidates": [
+    {
+      "id": "remixed_key/native_treasure_002",
+      "ordinary_id": "native_treasure_002",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_key/native_treasure_003",
+      "ordinary_id": "native_treasure_003",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_key/native_treasure_004",
+      "ordinary_id": "native_treasure_004",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_key/native_treasure_005",
+      "ordinary_id": "native_treasure_005",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_key/native_treasure_046",
+      "ordinary_id": "native_treasure_046",
+      "world": 2,
+      "region": "surgate"
+    },
+    {
+      "id": "remixed_key/native_treasure_047",
+      "ordinary_id": "native_treasure_047",
+      "world": 2,
+      "region": "surgate"
+    },
+    {
+      "id": "remixed_key/native_treasure_050",
+      "ordinary_id": "native_treasure_050",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_key/native_treasure_051",
+      "ordinary_id": "native_treasure_051",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_key/native_treasure_052",
+      "ordinary_id": "native_treasure_052",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_key/native_treasure_059",
+      "ordinary_id": "native_treasure_059",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_key/native_treasure_060",
+      "ordinary_id": "native_treasure_060",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_key/native_treasure_061",
+      "ordinary_id": "native_treasure_061",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_key/native_treasure_062",
+      "ordinary_id": "native_treasure_062",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_key/native_treasure_125",
+      "ordinary_id": "native_treasure_125",
+      "world": 2,
+      "region": "drakenvale"
+    },
+    {
+      "id": "remixed_key/native_treasure_126",
+      "ordinary_id": "native_treasure_126",
+      "world": 2,
+      "region": "drakenvale"
+    },
+    {
+      "id": "remixed_key/native_treasure_128",
+      "ordinary_id": "native_treasure_128",
+      "world": 2,
+      "region": "drakenvale"
+    }
+  ],
+  "anchors": [
+    {
+      "world": 1,
+      "name": "Tule exterior"
+    },
+    {
+      "world": 2,
+      "name": "Surgate exterior"
+    },
+    {
+      "world": 3,
+      "name": "Tule exterior"
+    }
+  ]
+}

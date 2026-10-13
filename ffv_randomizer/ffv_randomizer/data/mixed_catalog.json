@@ -1,0 +1,25 @@
+{
+  "catalog_id": "mixed-native-jobs-wind-treasure-v1",
+  "wind_chests": [
+    {
+      "id": "wind_treasure_59",
+      "content_id": 12,
+      "quantity": 1
+    },
+    {
+      "id": "wind_treasure_60",
+      "content_id": 190,
+      "quantity": 1
+    },
+    {
+      "id": "wind_treasure_61",
+      "content_id": 77,
+      "quantity": 1
+    },
+    {
+      "id": "wind_treasure_62",
+      "content_id": 136,
+      "quantity": 1
+    }
+  ]
+}

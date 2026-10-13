@@ -1,0 +1,136 @@
+{
+  "format_version": 1,
+  "starting_inventory": [],
+  "goal_requires": [],
+  "checks": [
+    {
+      "id": "native_job_slot_12",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_09",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_07",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_03",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_02",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_05",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_06",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_19",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_14",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_04",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_13",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_16",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_20",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_15",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_11",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_18",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_17",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_22",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_21",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_10",
+      "requires": [],
+      "region": "native_reward_probe"
+    },
+    {
+      "id": "native_job_slot_08",
+      "requires": [],
+      "region": "native_reward_probe"
+    }
+  ],
+  "progression_items": [],
+  "jobs": [
+    "job_12",
+    "job_09",
+    "job_07",
+    "job_03",
+    "job_02",
+    "job_05",
+    "job_06",
+    "job_19",
+    "job_14",
+    "job_04",
+    "job_13",
+    "job_16",
+    "job_20",
+    "job_15",
+    "job_11",
+    "job_18",
+    "job_17",
+    "job_22",
+    "job_21",
+    "job_10",
+    "job_08"
+  ]
+}

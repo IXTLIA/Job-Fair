@@ -1,0 +1,7696 @@
+{
+  "catalog_id": "mixed-world-treasure-shops-v3",
+  "shops": [
+    {
+      "id": "shop_w1_m35_g31",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m35_g31_p164",
+        "shop_w1_m35_g31_p165"
+      ]
+    },
+    {
+      "id": "shop_w3_m35_g31",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m35_g31_p164",
+        "shop_w3_m35_g31_p165"
+      ]
+    },
+    {
+      "id": "shop_w1_m36_g16",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m36_g16_p79",
+        "shop_w1_m36_g16_p80",
+        "shop_w1_m36_g16_p81"
+      ]
+    },
+    {
+      "id": "shop_w3_m36_g16",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m36_g16_p79",
+        "shop_w3_m36_g16_p80",
+        "shop_w3_m36_g16_p81"
+      ]
+    },
+    {
+      "id": "shop_w1_m37_g1",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m37_g1_p1",
+        "shop_w1_m37_g1_p2",
+        "shop_w1_m37_g1_p3"
+      ]
+    },
+    {
+      "id": "shop_w3_m37_g1",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m37_g1_p1",
+        "shop_w3_m37_g1_p2",
+        "shop_w3_m37_g1_p3"
+      ]
+    },
+    {
+      "id": "shop_w1_m38_g38",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m38_g38_p214",
+        "shop_w1_m38_g38_p215",
+        "shop_w1_m38_g38_p216",
+        "shop_w1_m38_g38_p217",
+        "shop_w1_m38_g38_p218",
+        "shop_w1_m38_g38_p219"
+      ]
+    },
+    {
+      "id": "shop_w3_m38_g38",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m38_g38_p214",
+        "shop_w3_m38_g38_p215",
+        "shop_w3_m38_g38_p216",
+        "shop_w3_m38_g38_p217",
+        "shop_w3_m38_g38_p218",
+        "shop_w3_m38_g38_p219"
+      ]
+    },
+    {
+      "id": "shop_w1_m43_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m43_g33_p174",
+        "shop_w1_m43_g33_p175",
+        "shop_w1_m43_g33_p176",
+        "shop_w1_m43_g33_p177",
+        "shop_w1_m43_g33_p178",
+        "shop_w1_m43_g33_p179",
+        "shop_w1_m43_g33_p180",
+        "shop_w1_m43_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w3_m43_g33",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m43_g33_p174",
+        "shop_w3_m43_g33_p175",
+        "shop_w3_m43_g33_p176",
+        "shop_w3_m43_g33_p177",
+        "shop_w3_m43_g33_p178",
+        "shop_w3_m43_g33_p179",
+        "shop_w3_m43_g33_p180",
+        "shop_w3_m43_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m44_g2",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m44_g2_p4",
+        "shop_w1_m44_g2_p5",
+        "shop_w1_m44_g2_p6",
+        "shop_w1_m44_g2_p7"
+      ]
+    },
+    {
+      "id": "shop_w3_m44_g2",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m44_g2_p4",
+        "shop_w3_m44_g2_p5",
+        "shop_w3_m44_g2_p6",
+        "shop_w3_m44_g2_p7"
+      ]
+    },
+    {
+      "id": "shop_w1_m44_g17",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m44_g17_p82",
+        "shop_w1_m44_g17_p83",
+        "shop_w1_m44_g17_p84",
+        "shop_w1_m44_g17_p85",
+        "shop_w1_m44_g17_p86"
+      ]
+    },
+    {
+      "id": "shop_w3_m44_g17",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m44_g17_p82",
+        "shop_w3_m44_g17_p83",
+        "shop_w3_m44_g17_p84",
+        "shop_w3_m44_g17_p85",
+        "shop_w3_m44_g17_p86"
+      ]
+    },
+    {
+      "id": "shop_w1_m45_g39",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m45_g39_p220",
+        "shop_w1_m45_g39_p221",
+        "shop_w1_m45_g39_p222",
+        "shop_w1_m45_g39_p223",
+        "shop_w1_m45_g39_p224",
+        "shop_w1_m45_g39_p225",
+        "shop_w1_m45_g39_p226",
+        "shop_w1_m45_g39_p227"
+      ]
+    },
+    {
+      "id": "shop_w3_m45_g39",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m45_g39_p220",
+        "shop_w3_m45_g39_p221",
+        "shop_w3_m45_g39_p222",
+        "shop_w3_m45_g39_p223",
+        "shop_w3_m45_g39_p224",
+        "shop_w3_m45_g39_p225",
+        "shop_w3_m45_g39_p226",
+        "shop_w3_m45_g39_p227"
+      ]
+    },
+    {
+      "id": "shop_w1_m50_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m50_g33_p174",
+        "shop_w1_m50_g33_p175",
+        "shop_w1_m50_g33_p176",
+        "shop_w1_m50_g33_p177",
+        "shop_w1_m50_g33_p178",
+        "shop_w1_m50_g33_p179",
+        "shop_w1_m50_g33_p180",
+        "shop_w1_m50_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m51_g3",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m51_g3_p8",
+        "shop_w1_m51_g3_p9",
+        "shop_w1_m51_g3_p10"
+      ]
+    },
+    {
+      "id": "shop_w1_m52_g18",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m52_g18_p87",
+        "shop_w1_m52_g18_p88",
+        "shop_w1_m52_g18_p89",
+        "shop_w1_m52_g18_p90",
+        "shop_w1_m52_g18_p91"
+      ]
+    },
+    {
+      "id": "shop_w1_m53_g40",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m53_g40_p228",
+        "shop_w1_m53_g40_p229",
+        "shop_w1_m53_g40_p230",
+        "shop_w1_m53_g40_p231",
+        "shop_w1_m53_g40_p232",
+        "shop_w1_m53_g40_p233",
+        "shop_w1_m53_g40_p234"
+      ]
+    },
+    {
+      "id": "shop_w1_m88_g4",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m88_g4_p11",
+        "shop_w1_m88_g4_p12",
+        "shop_w1_m88_g4_p13",
+        "shop_w1_m88_g4_p14",
+        "shop_w1_m88_g4_p15",
+        "shop_w1_m88_g4_p16",
+        "shop_w1_m88_g4_p17"
+      ]
+    },
+    {
+      "id": "shop_w1_m88_g5",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m88_g5_p18",
+        "shop_w1_m88_g5_p19",
+        "shop_w1_m88_g5_p20",
+        "shop_w1_m88_g5_p21",
+        "shop_w1_m88_g5_p22",
+        "shop_w1_m88_g5_p23",
+        "shop_w1_m88_g5_p24"
+      ]
+    },
+    {
+      "id": "shop_w3_m88_g5",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m88_g5_p18",
+        "shop_w3_m88_g5_p19",
+        "shop_w3_m88_g5_p20",
+        "shop_w3_m88_g5_p21",
+        "shop_w3_m88_g5_p22",
+        "shop_w3_m88_g5_p23",
+        "shop_w3_m88_g5_p24"
+      ]
+    },
+    {
+      "id": "shop_w1_m88_g6",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m88_g6_p25",
+        "shop_w1_m88_g6_p26",
+        "shop_w1_m88_g6_p27",
+        "shop_w1_m88_g6_p28"
+      ]
+    },
+    {
+      "id": "shop_w3_m88_g6",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m88_g6_p25",
+        "shop_w3_m88_g6_p26",
+        "shop_w3_m88_g6_p27",
+        "shop_w3_m88_g6_p28"
+      ]
+    },
+    {
+      "id": "shop_w1_m88_g19",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m88_g19_p92",
+        "shop_w1_m88_g19_p93",
+        "shop_w1_m88_g19_p94",
+        "shop_w1_m88_g19_p95",
+        "shop_w1_m88_g19_p96",
+        "shop_w1_m88_g19_p97",
+        "shop_w1_m88_g19_p98"
+      ]
+    },
+    {
+      "id": "shop_w1_m88_g20",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m88_g20_p99",
+        "shop_w1_m88_g20_p100",
+        "shop_w1_m88_g20_p101",
+        "shop_w1_m88_g20_p102",
+        "shop_w1_m88_g20_p103",
+        "shop_w1_m88_g20_p104",
+        "shop_w1_m88_g20_p105",
+        "shop_w1_m88_g20_p106"
+      ]
+    },
+    {
+      "id": "shop_w3_m88_g20",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m88_g20_p99",
+        "shop_w3_m88_g20_p100",
+        "shop_w3_m88_g20_p101",
+        "shop_w3_m88_g20_p102",
+        "shop_w3_m88_g20_p103",
+        "shop_w3_m88_g20_p104",
+        "shop_w3_m88_g20_p105",
+        "shop_w3_m88_g20_p106"
+      ]
+    },
+    {
+      "id": "shop_w1_m89_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m89_g33_p174",
+        "shop_w1_m89_g33_p175",
+        "shop_w1_m89_g33_p176",
+        "shop_w1_m89_g33_p177",
+        "shop_w1_m89_g33_p178",
+        "shop_w1_m89_g33_p179",
+        "shop_w1_m89_g33_p180",
+        "shop_w1_m89_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w3_m89_g33",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m89_g33_p174",
+        "shop_w3_m89_g33_p175",
+        "shop_w3_m89_g33_p176",
+        "shop_w3_m89_g33_p177",
+        "shop_w3_m89_g33_p178",
+        "shop_w3_m89_g33_p179",
+        "shop_w3_m89_g33_p180",
+        "shop_w3_m89_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m91_g41",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m91_g41_p235",
+        "shop_w1_m91_g41_p236",
+        "shop_w1_m91_g41_p237",
+        "shop_w1_m91_g41_p238",
+        "shop_w1_m91_g41_p239",
+        "shop_w1_m91_g41_p240",
+        "shop_w1_m91_g41_p241",
+        "shop_w1_m91_g41_p242"
+      ]
+    },
+    {
+      "id": "shop_w3_m91_g41",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m91_g41_p235",
+        "shop_w3_m91_g41_p236",
+        "shop_w3_m91_g41_p237",
+        "shop_w3_m91_g41_p238",
+        "shop_w3_m91_g41_p239",
+        "shop_w3_m91_g41_p240",
+        "shop_w3_m91_g41_p241",
+        "shop_w3_m91_g41_p242"
+      ]
+    },
+    {
+      "id": "shop_w1_m91_g42",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m91_g42_p243",
+        "shop_w1_m91_g42_p244",
+        "shop_w1_m91_g42_p245",
+        "shop_w1_m91_g42_p246",
+        "shop_w1_m91_g42_p247",
+        "shop_w1_m91_g42_p248",
+        "shop_w1_m91_g42_p249",
+        "shop_w1_m91_g42_p250"
+      ]
+    },
+    {
+      "id": "shop_w3_m91_g42",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m91_g42_p243",
+        "shop_w3_m91_g42_p244",
+        "shop_w3_m91_g42_p245",
+        "shop_w3_m91_g42_p246",
+        "shop_w3_m91_g42_p247",
+        "shop_w3_m91_g42_p248",
+        "shop_w3_m91_g42_p249",
+        "shop_w3_m91_g42_p250"
+      ]
+    },
+    {
+      "id": "shop_w1_m91_g43",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m91_g43_p251",
+        "shop_w1_m91_g43_p252",
+        "shop_w1_m91_g43_p253",
+        "shop_w1_m91_g43_p254",
+        "shop_w1_m91_g43_p255",
+        "shop_w1_m91_g43_p256"
+      ]
+    },
+    {
+      "id": "shop_w3_m91_g43",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m91_g43_p251",
+        "shop_w3_m91_g43_p252",
+        "shop_w3_m91_g43_p253",
+        "shop_w3_m91_g43_p254",
+        "shop_w3_m91_g43_p255",
+        "shop_w3_m91_g43_p256"
+      ]
+    },
+    {
+      "id": "shop_w1_m114_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m114_g33_p174",
+        "shop_w1_m114_g33_p175",
+        "shop_w1_m114_g33_p176",
+        "shop_w1_m114_g33_p177",
+        "shop_w1_m114_g33_p178",
+        "shop_w1_m114_g33_p179",
+        "shop_w1_m114_g33_p180",
+        "shop_w1_m114_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w3_m114_g33",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m114_g33_p174",
+        "shop_w3_m114_g33_p175",
+        "shop_w3_m114_g33_p176",
+        "shop_w3_m114_g33_p177",
+        "shop_w3_m114_g33_p178",
+        "shop_w3_m114_g33_p179",
+        "shop_w3_m114_g33_p180",
+        "shop_w3_m114_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m116_g42",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m116_g42_p243",
+        "shop_w1_m116_g42_p244",
+        "shop_w1_m116_g42_p245",
+        "shop_w1_m116_g42_p246",
+        "shop_w1_m116_g42_p247",
+        "shop_w1_m116_g42_p248",
+        "shop_w1_m116_g42_p249",
+        "shop_w1_m116_g42_p250"
+      ]
+    },
+    {
+      "id": "shop_w3_m116_g42",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m116_g42_p243",
+        "shop_w3_m116_g42_p244",
+        "shop_w3_m116_g42_p245",
+        "shop_w3_m116_g42_p246",
+        "shop_w3_m116_g42_p247",
+        "shop_w3_m116_g42_p248",
+        "shop_w3_m116_g42_p249",
+        "shop_w3_m116_g42_p250"
+      ]
+    },
+    {
+      "id": "shop_w1_m117_g7",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m117_g7_p29",
+        "shop_w1_m117_g7_p30",
+        "shop_w1_m117_g7_p31",
+        "shop_w1_m117_g7_p32",
+        "shop_w1_m117_g7_p33",
+        "shop_w1_m117_g7_p34"
+      ]
+    },
+    {
+      "id": "shop_w3_m117_g7",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m117_g7_p29",
+        "shop_w3_m117_g7_p30",
+        "shop_w3_m117_g7_p31",
+        "shop_w3_m117_g7_p32",
+        "shop_w3_m117_g7_p33",
+        "shop_w3_m117_g7_p34"
+      ]
+    },
+    {
+      "id": "shop_w1_m117_g21",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m117_g21_p107",
+        "shop_w1_m117_g21_p108",
+        "shop_w1_m117_g21_p109"
+      ]
+    },
+    {
+      "id": "shop_w3_m117_g21",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m117_g21_p107",
+        "shop_w3_m117_g21_p108",
+        "shop_w3_m117_g21_p109"
+      ]
+    },
+    {
+      "id": "shop_w1_m120_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m120_g33_p174",
+        "shop_w1_m120_g33_p175",
+        "shop_w1_m120_g33_p176",
+        "shop_w1_m120_g33_p177",
+        "shop_w1_m120_g33_p178",
+        "shop_w1_m120_g33_p179",
+        "shop_w1_m120_g33_p180",
+        "shop_w1_m120_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m121_g43",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m121_g43_p251",
+        "shop_w1_m121_g43_p252",
+        "shop_w1_m121_g43_p253",
+        "shop_w1_m121_g43_p254",
+        "shop_w1_m121_g43_p255",
+        "shop_w1_m121_g43_p256"
+      ]
+    },
+    {
+      "id": "shop_w1_m122_g53",
+      "world": 1,
+      "shop_type": "Accessories",
+      "slot_ids": [
+        "shop_w1_m122_g53_p299",
+        "shop_w1_m122_g53_p300",
+        "shop_w1_m122_g53_p301"
+      ]
+    },
+    {
+      "id": "shop_w1_m124_g33",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m124_g33_p174",
+        "shop_w1_m124_g33_p175",
+        "shop_w1_m124_g33_p176",
+        "shop_w1_m124_g33_p177",
+        "shop_w1_m124_g33_p178",
+        "shop_w1_m124_g33_p179",
+        "shop_w1_m124_g33_p180",
+        "shop_w1_m124_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w3_m124_g33",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m124_g33_p174",
+        "shop_w3_m124_g33_p175",
+        "shop_w3_m124_g33_p176",
+        "shop_w3_m124_g33_p177",
+        "shop_w3_m124_g33_p178",
+        "shop_w3_m124_g33_p179",
+        "shop_w3_m124_g33_p180",
+        "shop_w3_m124_g33_p181"
+      ]
+    },
+    {
+      "id": "shop_w1_m126_g8",
+      "world": 1,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w1_m126_g8_p35",
+        "shop_w1_m126_g8_p36",
+        "shop_w1_m126_g8_p37",
+        "shop_w1_m126_g8_p38"
+      ]
+    },
+    {
+      "id": "shop_w3_m126_g8",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m126_g8_p35",
+        "shop_w3_m126_g8_p36",
+        "shop_w3_m126_g8_p37",
+        "shop_w3_m126_g8_p38"
+      ]
+    },
+    {
+      "id": "shop_w1_m127_g22",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m127_g22_p110",
+        "shop_w1_m127_g22_p111"
+      ]
+    },
+    {
+      "id": "shop_w3_m127_g22",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m127_g22_p110",
+        "shop_w3_m127_g22_p111"
+      ]
+    },
+    {
+      "id": "shop_w1_m128_g41",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m128_g41_p235",
+        "shop_w1_m128_g41_p236",
+        "shop_w1_m128_g41_p237",
+        "shop_w1_m128_g41_p238",
+        "shop_w1_m128_g41_p239",
+        "shop_w1_m128_g41_p240",
+        "shop_w1_m128_g41_p241",
+        "shop_w1_m128_g41_p242"
+      ]
+    },
+    {
+      "id": "shop_w3_m128_g41",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m128_g41_p235",
+        "shop_w3_m128_g41_p236",
+        "shop_w3_m128_g41_p237",
+        "shop_w3_m128_g41_p238",
+        "shop_w3_m128_g41_p239",
+        "shop_w3_m128_g41_p240",
+        "shop_w3_m128_g41_p241",
+        "shop_w3_m128_g41_p242"
+      ]
+    },
+    {
+      "id": "shop_w1_m132_g50",
+      "world": 1,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w1_m132_g50_p284"
+      ]
+    },
+    {
+      "id": "shop_w1_m134_g32",
+      "world": 1,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w1_m134_g32_p166",
+        "shop_w1_m134_g32_p167",
+        "shop_w1_m134_g32_p168",
+        "shop_w1_m134_g32_p169",
+        "shop_w1_m134_g32_p170",
+        "shop_w1_m134_g32_p171",
+        "shop_w1_m134_g32_p172",
+        "shop_w1_m134_g32_p173"
+      ]
+    },
+    {
+      "id": "shop_w1_m135_g29",
+      "world": 1,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w1_m135_g29_p154",
+        "shop_w1_m135_g29_p155"
+      ]
+    },
+    {
+      "id": "shop_w1_m135_g55",
+      "world": 1,
+      "shop_type": "Ninja Supplies",
+      "slot_ids": [
+        "shop_w1_m135_g55_p308",
+        "shop_w1_m135_g55_p309",
+        "shop_w1_m135_g55_p310",
+        "shop_w1_m135_g55_p311",
+        "shop_w1_m135_g55_p312"
+      ]
+    },
+    {
+      "id": "shop_w2_m142_g44",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m142_g44_p257",
+        "shop_w2_m142_g44_p258",
+        "shop_w2_m142_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w3_m142_g44",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m142_g44_p257",
+        "shop_w3_m142_g44_p258",
+        "shop_w3_m142_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w2_m142_g45",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m142_g45_p260",
+        "shop_w2_m142_g45_p261",
+        "shop_w2_m142_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w3_m142_g45",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m142_g45_p260",
+        "shop_w3_m142_g45_p261",
+        "shop_w3_m142_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w2_m142_g46",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m142_g46_p263",
+        "shop_w2_m142_g46_p264",
+        "shop_w2_m142_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w3_m142_g46",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m142_g46_p263",
+        "shop_w3_m142_g46_p264",
+        "shop_w3_m142_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w2_m143_g9",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m143_g9_p39",
+        "shop_w2_m143_g9_p40",
+        "shop_w2_m143_g9_p41",
+        "shop_w2_m143_g9_p42",
+        "shop_w2_m143_g9_p43",
+        "shop_w2_m143_g9_p44",
+        "shop_w2_m143_g9_p45",
+        "shop_w2_m143_g9_p46"
+      ]
+    },
+    {
+      "id": "shop_w3_m143_g9",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m143_g9_p39",
+        "shop_w3_m143_g9_p40",
+        "shop_w3_m143_g9_p41",
+        "shop_w3_m143_g9_p42",
+        "shop_w3_m143_g9_p43",
+        "shop_w3_m143_g9_p44",
+        "shop_w3_m143_g9_p45",
+        "shop_w3_m143_g9_p46"
+      ]
+    },
+    {
+      "id": "shop_w2_m143_g23",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m143_g23_p112",
+        "shop_w2_m143_g23_p113",
+        "shop_w2_m143_g23_p114",
+        "shop_w2_m143_g23_p115",
+        "shop_w2_m143_g23_p116",
+        "shop_w2_m143_g23_p117",
+        "shop_w2_m143_g23_p118"
+      ]
+    },
+    {
+      "id": "shop_w3_m143_g23",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m143_g23_p112",
+        "shop_w3_m143_g23_p113",
+        "shop_w3_m143_g23_p114",
+        "shop_w3_m143_g23_p115",
+        "shop_w3_m143_g23_p116",
+        "shop_w3_m143_g23_p117",
+        "shop_w3_m143_g23_p118"
+      ]
+    },
+    {
+      "id": "shop_w2_m145_g35",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m145_g35_p190",
+        "shop_w2_m145_g35_p191",
+        "shop_w2_m145_g35_p192",
+        "shop_w2_m145_g35_p193",
+        "shop_w2_m145_g35_p194",
+        "shop_w2_m145_g35_p195",
+        "shop_w2_m145_g35_p196",
+        "shop_w2_m145_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w3_m145_g35",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m145_g35_p190",
+        "shop_w3_m145_g35_p191",
+        "shop_w3_m145_g35_p192",
+        "shop_w3_m145_g35_p193",
+        "shop_w3_m145_g35_p194",
+        "shop_w3_m145_g35_p195",
+        "shop_w3_m145_g35_p196",
+        "shop_w3_m145_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w2_m145_g36",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m145_g36_p198",
+        "shop_w2_m145_g36_p199",
+        "shop_w2_m145_g36_p200",
+        "shop_w2_m145_g36_p201",
+        "shop_w2_m145_g36_p202",
+        "shop_w2_m145_g36_p203",
+        "shop_w2_m145_g36_p204",
+        "shop_w2_m145_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m145_g36",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m145_g36_p198",
+        "shop_w3_m145_g36_p199",
+        "shop_w3_m145_g36_p200",
+        "shop_w3_m145_g36_p201",
+        "shop_w3_m145_g36_p202",
+        "shop_w3_m145_g36_p203",
+        "shop_w3_m145_g36_p204",
+        "shop_w3_m145_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w2_m149_g24",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m149_g24_p119",
+        "shop_w2_m149_g24_p120",
+        "shop_w2_m149_g24_p121",
+        "shop_w2_m149_g24_p122",
+        "shop_w2_m149_g24_p123",
+        "shop_w2_m149_g24_p124",
+        "shop_w2_m149_g24_p125",
+        "shop_w2_m149_g24_p126"
+      ]
+    },
+    {
+      "id": "shop_w3_m149_g24",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m149_g24_p119",
+        "shop_w3_m149_g24_p120",
+        "shop_w3_m149_g24_p121",
+        "shop_w3_m149_g24_p122",
+        "shop_w3_m149_g24_p123",
+        "shop_w3_m149_g24_p124",
+        "shop_w3_m149_g24_p125",
+        "shop_w3_m149_g24_p126"
+      ]
+    },
+    {
+      "id": "shop_w2_m150_g35",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m150_g35_p190",
+        "shop_w2_m150_g35_p191",
+        "shop_w2_m150_g35_p192",
+        "shop_w2_m150_g35_p193",
+        "shop_w2_m150_g35_p194",
+        "shop_w2_m150_g35_p195",
+        "shop_w2_m150_g35_p196",
+        "shop_w2_m150_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w3_m150_g35",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m150_g35_p190",
+        "shop_w3_m150_g35_p191",
+        "shop_w3_m150_g35_p192",
+        "shop_w3_m150_g35_p193",
+        "shop_w3_m150_g35_p194",
+        "shop_w3_m150_g35_p195",
+        "shop_w3_m150_g35_p196",
+        "shop_w3_m150_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w2_m150_g36",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m150_g36_p198",
+        "shop_w2_m150_g36_p199",
+        "shop_w2_m150_g36_p200",
+        "shop_w2_m150_g36_p201",
+        "shop_w2_m150_g36_p202",
+        "shop_w2_m150_g36_p203",
+        "shop_w2_m150_g36_p204",
+        "shop_w2_m150_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m150_g36",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m150_g36_p198",
+        "shop_w3_m150_g36_p199",
+        "shop_w3_m150_g36_p200",
+        "shop_w3_m150_g36_p201",
+        "shop_w3_m150_g36_p202",
+        "shop_w3_m150_g36_p203",
+        "shop_w3_m150_g36_p204",
+        "shop_w3_m150_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w2_m151_g10",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m151_g10_p47",
+        "shop_w2_m151_g10_p48"
+      ]
+    },
+    {
+      "id": "shop_w3_m151_g10",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m151_g10_p47",
+        "shop_w3_m151_g10_p48"
+      ]
+    },
+    {
+      "id": "shop_w2_m152_g47",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m152_g47_p266",
+        "shop_w2_m152_g47_p267",
+        "shop_w2_m152_g47_p268",
+        "shop_w2_m152_g47_p269",
+        "shop_w2_m152_g47_p270",
+        "shop_w2_m152_g47_p271"
+      ]
+    },
+    {
+      "id": "shop_w3_m152_g47",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m152_g47_p266",
+        "shop_w3_m152_g47_p267",
+        "shop_w3_m152_g47_p268",
+        "shop_w3_m152_g47_p269",
+        "shop_w3_m152_g47_p270",
+        "shop_w3_m152_g47_p271"
+      ]
+    },
+    {
+      "id": "shop_w2_m152_g48",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m152_g48_p272",
+        "shop_w2_m152_g48_p273",
+        "shop_w2_m152_g48_p274",
+        "shop_w2_m152_g48_p275",
+        "shop_w2_m152_g48_p276",
+        "shop_w2_m152_g48_p277"
+      ]
+    },
+    {
+      "id": "shop_w3_m152_g48",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m152_g48_p272",
+        "shop_w3_m152_g48_p273",
+        "shop_w3_m152_g48_p274",
+        "shop_w3_m152_g48_p275",
+        "shop_w3_m152_g48_p276",
+        "shop_w3_m152_g48_p277"
+      ]
+    },
+    {
+      "id": "shop_w2_m152_g49",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m152_g49_p278",
+        "shop_w2_m152_g49_p279",
+        "shop_w2_m152_g49_p280",
+        "shop_w2_m152_g49_p281",
+        "shop_w2_m152_g49_p282",
+        "shop_w2_m152_g49_p283"
+      ]
+    },
+    {
+      "id": "shop_w3_m152_g49",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m152_g49_p278",
+        "shop_w3_m152_g49_p279",
+        "shop_w3_m152_g49_p280",
+        "shop_w3_m152_g49_p281",
+        "shop_w3_m152_g49_p282",
+        "shop_w3_m152_g49_p283"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g13",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m157_g13_p64",
+        "shop_w2_m157_g13_p65",
+        "shop_w2_m157_g13_p66",
+        "shop_w2_m157_g13_p67"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g13",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m157_g13_p64",
+        "shop_w3_m157_g13_p65",
+        "shop_w3_m157_g13_p66",
+        "shop_w3_m157_g13_p67"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g27",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m157_g27_p138",
+        "shop_w2_m157_g27_p139",
+        "shop_w2_m157_g27_p140",
+        "shop_w2_m157_g27_p141",
+        "shop_w2_m157_g27_p142",
+        "shop_w2_m157_g27_p143",
+        "shop_w2_m157_g27_p144",
+        "shop_w2_m157_g27_p145"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g27",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m157_g27_p138",
+        "shop_w3_m157_g27_p139",
+        "shop_w3_m157_g27_p140",
+        "shop_w3_m157_g27_p141",
+        "shop_w3_m157_g27_p142",
+        "shop_w3_m157_g27_p143",
+        "shop_w3_m157_g27_p144",
+        "shop_w3_m157_g27_p145"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g35",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m157_g35_p190",
+        "shop_w2_m157_g35_p191",
+        "shop_w2_m157_g35_p192",
+        "shop_w2_m157_g35_p193",
+        "shop_w2_m157_g35_p194",
+        "shop_w2_m157_g35_p195",
+        "shop_w2_m157_g35_p196",
+        "shop_w2_m157_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g35",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m157_g35_p190",
+        "shop_w3_m157_g35_p191",
+        "shop_w3_m157_g35_p192",
+        "shop_w3_m157_g35_p193",
+        "shop_w3_m157_g35_p194",
+        "shop_w3_m157_g35_p195",
+        "shop_w3_m157_g35_p196",
+        "shop_w3_m157_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g36",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m157_g36_p198",
+        "shop_w2_m157_g36_p199",
+        "shop_w2_m157_g36_p200",
+        "shop_w2_m157_g36_p201",
+        "shop_w2_m157_g36_p202",
+        "shop_w2_m157_g36_p203",
+        "shop_w2_m157_g36_p204",
+        "shop_w2_m157_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g36",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m157_g36_p198",
+        "shop_w3_m157_g36_p199",
+        "shop_w3_m157_g36_p200",
+        "shop_w3_m157_g36_p201",
+        "shop_w3_m157_g36_p202",
+        "shop_w3_m157_g36_p203",
+        "shop_w3_m157_g36_p204",
+        "shop_w3_m157_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g44",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m157_g44_p257",
+        "shop_w2_m157_g44_p258",
+        "shop_w2_m157_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g44",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m157_g44_p257",
+        "shop_w3_m157_g44_p258",
+        "shop_w3_m157_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g45",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m157_g45_p260",
+        "shop_w2_m157_g45_p261",
+        "shop_w2_m157_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g45",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m157_g45_p260",
+        "shop_w3_m157_g45_p261",
+        "shop_w3_m157_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w2_m157_g46",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m157_g46_p263",
+        "shop_w2_m157_g46_p264",
+        "shop_w2_m157_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w3_m157_g46",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m157_g46_p263",
+        "shop_w3_m157_g46_p264",
+        "shop_w3_m157_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w2_m162_g44",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m162_g44_p257",
+        "shop_w2_m162_g44_p258",
+        "shop_w2_m162_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w3_m162_g44",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m162_g44_p257",
+        "shop_w3_m162_g44_p258",
+        "shop_w3_m162_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w2_m162_g45",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m162_g45_p260",
+        "shop_w2_m162_g45_p261",
+        "shop_w2_m162_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w3_m162_g45",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m162_g45_p260",
+        "shop_w3_m162_g45_p261",
+        "shop_w3_m162_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w2_m162_g46",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m162_g46_p263",
+        "shop_w2_m162_g46_p264",
+        "shop_w2_m162_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w3_m162_g46",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m162_g46_p263",
+        "shop_w3_m162_g46_p264",
+        "shop_w3_m162_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w2_m163_g11",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m163_g11_p49",
+        "shop_w2_m163_g11_p50",
+        "shop_w2_m163_g11_p51",
+        "shop_w2_m163_g11_p52",
+        "shop_w2_m163_g11_p53",
+        "shop_w2_m163_g11_p54",
+        "shop_w2_m163_g11_p55"
+      ]
+    },
+    {
+      "id": "shop_w3_m163_g11",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m163_g11_p49",
+        "shop_w3_m163_g11_p50",
+        "shop_w3_m163_g11_p51",
+        "shop_w3_m163_g11_p52",
+        "shop_w3_m163_g11_p53",
+        "shop_w3_m163_g11_p54",
+        "shop_w3_m163_g11_p55"
+      ]
+    },
+    {
+      "id": "shop_w2_m163_g12",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m163_g12_p56",
+        "shop_w2_m163_g12_p57",
+        "shop_w2_m163_g12_p58",
+        "shop_w2_m163_g12_p59",
+        "shop_w2_m163_g12_p60",
+        "shop_w2_m163_g12_p61",
+        "shop_w2_m163_g12_p62",
+        "shop_w2_m163_g12_p63"
+      ]
+    },
+    {
+      "id": "shop_w3_m163_g12",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m163_g12_p56",
+        "shop_w3_m163_g12_p57",
+        "shop_w3_m163_g12_p58",
+        "shop_w3_m163_g12_p59",
+        "shop_w3_m163_g12_p60",
+        "shop_w3_m163_g12_p61",
+        "shop_w3_m163_g12_p62",
+        "shop_w3_m163_g12_p63"
+      ]
+    },
+    {
+      "id": "shop_w2_m163_g25",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m163_g25_p127",
+        "shop_w2_m163_g25_p128",
+        "shop_w2_m163_g25_p129"
+      ]
+    },
+    {
+      "id": "shop_w3_m163_g25",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m163_g25_p127",
+        "shop_w3_m163_g25_p128",
+        "shop_w3_m163_g25_p129"
+      ]
+    },
+    {
+      "id": "shop_w2_m163_g26",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m163_g26_p130",
+        "shop_w2_m163_g26_p131",
+        "shop_w2_m163_g26_p132",
+        "shop_w2_m163_g26_p133",
+        "shop_w2_m163_g26_p134",
+        "shop_w2_m163_g26_p135",
+        "shop_w2_m163_g26_p136",
+        "shop_w2_m163_g26_p137"
+      ]
+    },
+    {
+      "id": "shop_w3_m163_g26",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m163_g26_p130",
+        "shop_w3_m163_g26_p131",
+        "shop_w3_m163_g26_p132",
+        "shop_w3_m163_g26_p133",
+        "shop_w3_m163_g26_p134",
+        "shop_w3_m163_g26_p135",
+        "shop_w3_m163_g26_p136",
+        "shop_w3_m163_g26_p137"
+      ]
+    },
+    {
+      "id": "shop_w2_m164_g35",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m164_g35_p190",
+        "shop_w2_m164_g35_p191",
+        "shop_w2_m164_g35_p192",
+        "shop_w2_m164_g35_p193",
+        "shop_w2_m164_g35_p194",
+        "shop_w2_m164_g35_p195",
+        "shop_w2_m164_g35_p196",
+        "shop_w2_m164_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w3_m164_g35",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m164_g35_p190",
+        "shop_w3_m164_g35_p191",
+        "shop_w3_m164_g35_p192",
+        "shop_w3_m164_g35_p193",
+        "shop_w3_m164_g35_p194",
+        "shop_w3_m164_g35_p195",
+        "shop_w3_m164_g35_p196",
+        "shop_w3_m164_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w2_m164_g36",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m164_g36_p198",
+        "shop_w2_m164_g36_p199",
+        "shop_w2_m164_g36_p200",
+        "shop_w2_m164_g36_p201",
+        "shop_w2_m164_g36_p202",
+        "shop_w2_m164_g36_p203",
+        "shop_w2_m164_g36_p204",
+        "shop_w2_m164_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m164_g36",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m164_g36_p198",
+        "shop_w3_m164_g36_p199",
+        "shop_w3_m164_g36_p200",
+        "shop_w3_m164_g36_p201",
+        "shop_w3_m164_g36_p202",
+        "shop_w3_m164_g36_p203",
+        "shop_w3_m164_g36_p204",
+        "shop_w3_m164_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w2_m168_g12",
+      "world": 2,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w2_m168_g12_p56",
+        "shop_w2_m168_g12_p57",
+        "shop_w2_m168_g12_p58",
+        "shop_w2_m168_g12_p59",
+        "shop_w2_m168_g12_p60",
+        "shop_w2_m168_g12_p61",
+        "shop_w2_m168_g12_p62",
+        "shop_w2_m168_g12_p63"
+      ]
+    },
+    {
+      "id": "shop_w3_m168_g12",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m168_g12_p56",
+        "shop_w3_m168_g12_p57",
+        "shop_w3_m168_g12_p58",
+        "shop_w3_m168_g12_p59",
+        "shop_w3_m168_g12_p60",
+        "shop_w3_m168_g12_p61",
+        "shop_w3_m168_g12_p62",
+        "shop_w3_m168_g12_p63"
+      ]
+    },
+    {
+      "id": "shop_w2_m168_g26",
+      "world": 2,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w2_m168_g26_p130",
+        "shop_w2_m168_g26_p131",
+        "shop_w2_m168_g26_p132",
+        "shop_w2_m168_g26_p133",
+        "shop_w2_m168_g26_p134",
+        "shop_w2_m168_g26_p135",
+        "shop_w2_m168_g26_p136",
+        "shop_w2_m168_g26_p137"
+      ]
+    },
+    {
+      "id": "shop_w3_m168_g26",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m168_g26_p130",
+        "shop_w3_m168_g26_p131",
+        "shop_w3_m168_g26_p132",
+        "shop_w3_m168_g26_p133",
+        "shop_w3_m168_g26_p134",
+        "shop_w3_m168_g26_p135",
+        "shop_w3_m168_g26_p136",
+        "shop_w3_m168_g26_p137"
+      ]
+    },
+    {
+      "id": "shop_w2_m168_g44",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m168_g44_p257",
+        "shop_w2_m168_g44_p258",
+        "shop_w2_m168_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w3_m168_g44",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m168_g44_p257",
+        "shop_w3_m168_g44_p258",
+        "shop_w3_m168_g44_p259"
+      ]
+    },
+    {
+      "id": "shop_w2_m168_g45",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m168_g45_p260",
+        "shop_w2_m168_g45_p261",
+        "shop_w2_m168_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w3_m168_g45",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m168_g45_p260",
+        "shop_w3_m168_g45_p261",
+        "shop_w3_m168_g45_p262"
+      ]
+    },
+    {
+      "id": "shop_w2_m168_g46",
+      "world": 2,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w2_m168_g46_p263",
+        "shop_w2_m168_g46_p264",
+        "shop_w2_m168_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w3_m168_g46",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m168_g46_p263",
+        "shop_w3_m168_g46_p264",
+        "shop_w3_m168_g46_p265"
+      ]
+    },
+    {
+      "id": "shop_w2_m170_g35",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m170_g35_p190",
+        "shop_w2_m170_g35_p191",
+        "shop_w2_m170_g35_p192",
+        "shop_w2_m170_g35_p193",
+        "shop_w2_m170_g35_p194",
+        "shop_w2_m170_g35_p195",
+        "shop_w2_m170_g35_p196",
+        "shop_w2_m170_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w3_m170_g35",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m170_g35_p190",
+        "shop_w3_m170_g35_p191",
+        "shop_w3_m170_g35_p192",
+        "shop_w3_m170_g35_p193",
+        "shop_w3_m170_g35_p194",
+        "shop_w3_m170_g35_p195",
+        "shop_w3_m170_g35_p196",
+        "shop_w3_m170_g35_p197"
+      ]
+    },
+    {
+      "id": "shop_w2_m170_g36",
+      "world": 2,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w2_m170_g36_p198",
+        "shop_w2_m170_g36_p199",
+        "shop_w2_m170_g36_p200",
+        "shop_w2_m170_g36_p201",
+        "shop_w2_m170_g36_p202",
+        "shop_w2_m170_g36_p203",
+        "shop_w2_m170_g36_p204",
+        "shop_w2_m170_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m170_g36",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m170_g36_p198",
+        "shop_w3_m170_g36_p199",
+        "shop_w3_m170_g36_p200",
+        "shop_w3_m170_g36_p201",
+        "shop_w3_m170_g36_p202",
+        "shop_w3_m170_g36_p203",
+        "shop_w3_m170_g36_p204",
+        "shop_w3_m170_g36_p205"
+      ]
+    },
+    {
+      "id": "shop_w3_m179_g37",
+      "world": 3,
+      "shop_type": "Items",
+      "slot_ids": [
+        "shop_w3_m179_g37_p206",
+        "shop_w3_m179_g37_p207",
+        "shop_w3_m179_g37_p208",
+        "shop_w3_m179_g37_p209",
+        "shop_w3_m179_g37_p210",
+        "shop_w3_m179_g37_p211",
+        "shop_w3_m179_g37_p212",
+        "shop_w3_m179_g37_p213"
+      ]
+    },
+    {
+      "id": "shop_w3_m179_g57",
+      "world": 3,
+      "shop_type": "Apothecary",
+      "slot_ids": [
+        "shop_w3_m179_g57_p320",
+        "shop_w3_m179_g57_p321",
+        "shop_w3_m179_g57_p322",
+        "shop_w3_m179_g57_p323",
+        "shop_w3_m179_g57_p324",
+        "shop_w3_m179_g57_p325",
+        "shop_w3_m179_g57_p326",
+        "shop_w3_m179_g57_p327"
+      ]
+    },
+    {
+      "id": "shop_w3_m182_g51",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m182_g51_p285",
+        "shop_w3_m182_g51_p286",
+        "shop_w3_m182_g51_p287",
+        "shop_w3_m182_g51_p288",
+        "shop_w3_m182_g51_p289",
+        "shop_w3_m182_g51_p290"
+      ]
+    },
+    {
+      "id": "shop_w3_m182_g52",
+      "world": 3,
+      "shop_type": "Magic",
+      "slot_ids": [
+        "shop_w3_m182_g52_p291",
+        "shop_w3_m182_g52_p292",
+        "shop_w3_m182_g52_p293",
+        "shop_w3_m182_g52_p294",
+        "shop_w3_m182_g52_p295",
+        "shop_w3_m182_g52_p296",
+        "shop_w3_m182_g52_p297",
+        "shop_w3_m182_g52_p298"
+      ]
+    },
+    {
+      "id": "shop_w3_m183_g30",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m183_g30_p156",
+        "shop_w3_m183_g30_p157",
+        "shop_w3_m183_g30_p158",
+        "shop_w3_m183_g30_p159",
+        "shop_w3_m183_g30_p160",
+        "shop_w3_m183_g30_p161",
+        "shop_w3_m183_g30_p162",
+        "shop_w3_m183_g30_p163"
+      ]
+    },
+    {
+      "id": "shop_w3_m183_g54",
+      "world": 3,
+      "shop_type": "Accessories",
+      "slot_ids": [
+        "shop_w3_m183_g54_p302",
+        "shop_w3_m183_g54_p303",
+        "shop_w3_m183_g54_p304",
+        "shop_w3_m183_g54_p305",
+        "shop_w3_m183_g54_p306",
+        "shop_w3_m183_g54_p307"
+      ]
+    },
+    {
+      "id": "shop_w3_m184_g15",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m184_g15_p72",
+        "shop_w3_m184_g15_p73",
+        "shop_w3_m184_g15_p74",
+        "shop_w3_m184_g15_p75",
+        "shop_w3_m184_g15_p76",
+        "shop_w3_m184_g15_p77",
+        "shop_w3_m184_g15_p78"
+      ]
+    },
+    {
+      "id": "shop_w3_m184_g56",
+      "world": 3,
+      "shop_type": "Ninja Supplies",
+      "slot_ids": [
+        "shop_w3_m184_g56_p313",
+        "shop_w3_m184_g56_p314",
+        "shop_w3_m184_g56_p315",
+        "shop_w3_m184_g56_p316",
+        "shop_w3_m184_g56_p317",
+        "shop_w3_m184_g56_p318",
+        "shop_w3_m184_g56_p319"
+      ]
+    },
+    {
+      "id": "shop_w3_m470_g14",
+      "world": 3,
+      "shop_type": "Weapons",
+      "slot_ids": [
+        "shop_w3_m470_g14_p68",
+        "shop_w3_m470_g14_p69",
+        "shop_w3_m470_g14_p70",
+        "shop_w3_m470_g14_p71"
+      ]
+    },
+    {
+      "id": "shop_w3_m470_g28",
+      "world": 3,
+      "shop_type": "Armor",
+      "slot_ids": [
+        "shop_w3_m470_g28_p146",
+        "shop_w3_m470_g28_p147",
+        "shop_w3_m470_g28_p148",
+        "shop_w3_m470_g28_p149",
+        "shop_w3_m470_g28_p150",
+        "shop_w3_m470_g28_p151",
+        "shop_w3_m470_g28_p152",
+        "shop_w3_m470_g28_p153"
+      ]
+    }
+  ],
+  "slots": [
+    {
+      "id": "shop_w1_m35_g31_p164",
+      "shop_id": "shop_w1_m35_g31",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m35_g31_p165",
+      "shop_id": "shop_w1_m35_g31",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m35_g31_p164",
+      "shop_id": "shop_w3_m35_g31",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m35_g31_p165",
+      "shop_id": "shop_w3_m35_g31",
+      "content_id": 12,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m36_g16_p79",
+      "shop_id": "shop_w1_m36_g16",
+      "content_id": 178,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m36_g16_p80",
+      "shop_id": "shop_w1_m36_g16",
+      "content_id": 190,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m36_g16_p81",
+      "shop_id": "shop_w1_m36_g16",
+      "content_id": 213,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m36_g16_p79",
+      "shop_id": "shop_w3_m36_g16",
+      "content_id": 178,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m36_g16_p80",
+      "shop_id": "shop_w3_m36_g16",
+      "content_id": 190,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m36_g16_p81",
+      "shop_id": "shop_w3_m36_g16",
+      "content_id": 213,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m37_g1_p1",
+      "shop_id": "shop_w1_m37_g1",
+      "content_id": 77,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m37_g1_p2",
+      "shop_id": "shop_w1_m37_g1",
+      "content_id": 127,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m37_g1_p3",
+      "shop_id": "shop_w1_m37_g1",
+      "content_id": 136,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m37_g1_p1",
+      "shop_id": "shop_w3_m37_g1",
+      "content_id": 77,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m37_g1_p2",
+      "shop_id": "shop_w3_m37_g1",
+      "content_id": 127,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m37_g1_p3",
+      "shop_id": "shop_w3_m37_g1",
+      "content_id": 136,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m38_g38_p214",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 392,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m38_g38_p215",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 393,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m38_g38_p216",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 394,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m38_g38_p217",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 374,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m38_g38_p218",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 375,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m38_g38_p219",
+      "shop_id": "shop_w1_m38_g38",
+      "content_id": 376,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p214",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 392,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p215",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 393,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p216",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 394,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p217",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 374,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p218",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 375,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m38_g38_p219",
+      "shop_id": "shop_w3_m38_g38",
+      "content_id": 376,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m43_g33_p174",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p175",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p176",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p177",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p178",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p179",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p180",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m43_g33_p181",
+      "shop_id": "shop_w1_m43_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p174",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p175",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p176",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p177",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p178",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p179",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p180",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m43_g33_p181",
+      "shop_id": "shop_w3_m43_g33",
+      "content_id": 12,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m44_g2_p4",
+      "shop_id": "shop_w1_m44_g2",
+      "content_id": 61,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m44_g2_p5",
+      "shop_id": "shop_w1_m44_g2",
+      "content_id": 78,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m44_g2_p6",
+      "shop_id": "shop_w1_m44_g2",
+      "content_id": 127,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m44_g2_p7",
+      "shop_id": "shop_w1_m44_g2",
+      "content_id": 136,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m44_g2_p4",
+      "shop_id": "shop_w3_m44_g2",
+      "content_id": 61,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m44_g2_p5",
+      "shop_id": "shop_w3_m44_g2",
+      "content_id": 78,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m44_g2_p6",
+      "shop_id": "shop_w3_m44_g2",
+      "content_id": 127,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m44_g2_p7",
+      "shop_id": "shop_w3_m44_g2",
+      "content_id": 136,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m44_g17_p82",
+      "shop_id": "shop_w1_m44_g17",
+      "content_id": 179,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m44_g17_p83",
+      "shop_id": "shop_w1_m44_g17",
+      "content_id": 204,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m44_g17_p84",
+      "shop_id": "shop_w1_m44_g17",
+      "content_id": 234,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m44_g17_p85",
+      "shop_id": "shop_w1_m44_g17",
+      "content_id": 218,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m44_g17_p86",
+      "shop_id": "shop_w1_m44_g17",
+      "content_id": 226,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m44_g17_p82",
+      "shop_id": "shop_w3_m44_g17",
+      "content_id": 179,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m44_g17_p83",
+      "shop_id": "shop_w3_m44_g17",
+      "content_id": 204,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m44_g17_p84",
+      "shop_id": "shop_w3_m44_g17",
+      "content_id": 234,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m44_g17_p85",
+      "shop_id": "shop_w3_m44_g17",
+      "content_id": 218,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m44_g17_p86",
+      "shop_id": "shop_w3_m44_g17",
+      "content_id": 226,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m45_g39_p220",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 392,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p221",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 393,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p222",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 394,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p223",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 396,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p224",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 374,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p225",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 376,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p226",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 377,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m45_g39_p227",
+      "shop_id": "shop_w1_m45_g39",
+      "content_id": 378,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p220",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 392,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p221",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 393,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p222",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 394,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p223",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 396,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p224",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 374,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p225",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 376,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p226",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 377,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m45_g39_p227",
+      "shop_id": "shop_w3_m45_g39",
+      "content_id": 378,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m50_g33_p174",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p175",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p176",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p177",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p178",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p179",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p180",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m50_g33_p181",
+      "shop_id": "shop_w1_m50_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m51_g3_p8",
+      "shop_id": "shop_w1_m51_g3",
+      "content_id": 107,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m51_g3_p9",
+      "shop_id": "shop_w1_m51_g3",
+      "content_id": 78,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m51_g3_p10",
+      "shop_id": "shop_w1_m51_g3",
+      "content_id": 61,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m52_g18_p87",
+      "shop_id": "shop_w1_m52_g18",
+      "content_id": 180,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m52_g18_p88",
+      "shop_id": "shop_w1_m52_g18",
+      "content_id": 205,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m52_g18_p89",
+      "shop_id": "shop_w1_m52_g18",
+      "content_id": 235,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m52_g18_p90",
+      "shop_id": "shop_w1_m52_g18",
+      "content_id": 219,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m52_g18_p91",
+      "shop_id": "shop_w1_m52_g18",
+      "content_id": 226,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m53_g40_p228",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 411,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p229",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 412,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p230",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 413,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p231",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 414,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p232",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 428,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p233",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 429,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m53_g40_p234",
+      "shop_id": "shop_w1_m53_g40",
+      "content_id": 430,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m88_g4_p11",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 62,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p12",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 79,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p13",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 108,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p14",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 128,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p15",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 129,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p16",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 130,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g4_p17",
+      "shop_id": "shop_w1_m88_g4",
+      "content_id": 143,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p18",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 62,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p19",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 79,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p20",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 108,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p21",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 128,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p22",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 129,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p23",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 130,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g5_p24",
+      "shop_id": "shop_w1_m88_g5",
+      "content_id": 143,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p18",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 62,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p19",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 79,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p20",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 108,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p21",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 128,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p22",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 129,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p23",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 130,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g5_p24",
+      "shop_id": "shop_w3_m88_g5",
+      "content_id": 143,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g6_p25",
+      "shop_id": "shop_w1_m88_g6",
+      "content_id": 97,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g6_p26",
+      "shop_id": "shop_w1_m88_g6",
+      "content_id": 73,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g6_p27",
+      "shop_id": "shop_w1_m88_g6",
+      "content_id": 162,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g6_p28",
+      "shop_id": "shop_w1_m88_g6",
+      "content_id": 168,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g6_p25",
+      "shop_id": "shop_w3_m88_g6",
+      "content_id": 97,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g6_p26",
+      "shop_id": "shop_w3_m88_g6",
+      "content_id": 73,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g6_p27",
+      "shop_id": "shop_w3_m88_g6",
+      "content_id": 162,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m88_g6_p28",
+      "shop_id": "shop_w3_m88_g6",
+      "content_id": 168,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m88_g19_p92",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 181,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p93",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 206,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p94",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 236,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p95",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 220,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p96",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 227,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p97",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 242,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g19_p98",
+      "shop_id": "shop_w1_m88_g19",
+      "content_id": 247,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p99",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 181,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p100",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 206,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p101",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 191,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p102",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 236,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p103",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 220,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p104",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 227,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p105",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 242,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m88_g20_p106",
+      "shop_id": "shop_w1_m88_g20",
+      "content_id": 247,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p99",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 181,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p100",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 206,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p101",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 191,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p102",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 236,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p103",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 220,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p104",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 227,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p105",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 242,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m88_g20_p106",
+      "shop_id": "shop_w3_m88_g20",
+      "content_id": 247,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m89_g33_p174",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p175",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p176",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p177",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p178",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p179",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p180",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m89_g33_p181",
+      "shop_id": "shop_w1_m89_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p174",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p175",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p176",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p177",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p178",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p179",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p180",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m89_g33_p181",
+      "shop_id": "shop_w3_m89_g33",
+      "content_id": 12,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m91_g41_p235",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 398,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p236",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 399,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p237",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 400,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p238",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 395,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p239",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 396,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p240",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 392,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p241",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 393,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g41_p242",
+      "shop_id": "shop_w1_m91_g41",
+      "content_id": 394,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p235",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 398,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p236",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 399,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p237",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 400,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p238",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 395,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p239",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 396,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p240",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 392,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p241",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 393,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g41_p242",
+      "shop_id": "shop_w3_m91_g41",
+      "content_id": 394,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p243",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 380,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p244",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 381,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p245",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 382,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p246",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 377,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p247",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 378,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p248",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 374,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p249",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 375,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g42_p250",
+      "shop_id": "shop_w1_m91_g42",
+      "content_id": 376,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p243",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 380,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p244",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 381,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p245",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 382,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p246",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 377,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p247",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 378,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p248",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 374,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p249",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 375,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g42_p250",
+      "shop_id": "shop_w3_m91_g42",
+      "content_id": 376,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p251",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 416,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p252",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 417,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p253",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 414,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p254",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 413,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p255",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 411,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m91_g43_p256",
+      "shop_id": "shop_w1_m91_g43",
+      "content_id": 412,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p251",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 416,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p252",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 417,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p253",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 414,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p254",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 413,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p255",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 411,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m91_g43_p256",
+      "shop_id": "shop_w3_m91_g43",
+      "content_id": 412,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m114_g33_p174",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p175",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p176",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p177",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p178",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p179",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p180",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m114_g33_p181",
+      "shop_id": "shop_w1_m114_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p174",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p175",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p176",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p177",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p178",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p179",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p180",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m114_g33_p181",
+      "shop_id": "shop_w3_m114_g33",
+      "content_id": 12,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m116_g42_p243",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 380,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p244",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 381,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p245",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 382,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p246",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 377,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p247",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 378,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p248",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 374,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p249",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 375,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m116_g42_p250",
+      "shop_id": "shop_w1_m116_g42",
+      "content_id": 376,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p243",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 380,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p244",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 381,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p245",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 382,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p246",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 377,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p247",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 378,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p248",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 374,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p249",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 375,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m116_g42_p250",
+      "shop_id": "shop_w3_m116_g42",
+      "content_id": 376,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m117_g7_p29",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 109,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g7_p30",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 80,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g7_p31",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 63,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g7_p32",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 98,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g7_p33",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 118,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g7_p34",
+      "shop_id": "shop_w1_m117_g7",
+      "content_id": 145,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p29",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 109,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p30",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 80,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p31",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 63,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p32",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 98,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p33",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 118,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m117_g7_p34",
+      "shop_id": "shop_w3_m117_g7",
+      "content_id": 145,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m117_g21_p107",
+      "shop_id": "shop_w1_m117_g21",
+      "content_id": 194,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m117_g21_p108",
+      "shop_id": "shop_w1_m117_g21",
+      "content_id": 221,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m117_g21_p109",
+      "shop_id": "shop_w1_m117_g21",
+      "content_id": 228,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m117_g21_p107",
+      "shop_id": "shop_w3_m117_g21",
+      "content_id": 194,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m117_g21_p108",
+      "shop_id": "shop_w3_m117_g21",
+      "content_id": 221,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m117_g21_p109",
+      "shop_id": "shop_w3_m117_g21",
+      "content_id": 228,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m120_g33_p174",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p175",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p176",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p177",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p178",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p179",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p180",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m120_g33_p181",
+      "shop_id": "shop_w1_m120_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m121_g43_p251",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 416,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m121_g43_p252",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 417,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m121_g43_p253",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 414,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m121_g43_p254",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 413,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m121_g43_p255",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 411,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m121_g43_p256",
+      "shop_id": "shop_w1_m121_g43",
+      "content_id": 412,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m122_g53_p299",
+      "shop_id": "shop_w1_m122_g53",
+      "content_id": 255,
+      "world": 1,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w1_m122_g53_p300",
+      "shop_id": "shop_w1_m122_g53",
+      "content_id": 256,
+      "world": 1,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w1_m122_g53_p301",
+      "shop_id": "shop_w1_m122_g53",
+      "content_id": 254,
+      "world": 1,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w1_m124_g33_p174",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p175",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p176",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p177",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p178",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p179",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p180",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 4,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m124_g33_p181",
+      "shop_id": "shop_w1_m124_g33",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p174",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p175",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p176",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p177",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p178",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p179",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p180",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m124_g33_p181",
+      "shop_id": "shop_w3_m124_g33",
+      "content_id": 12,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m126_g8_p35",
+      "shop_id": "shop_w1_m126_g8",
+      "content_id": 146,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m126_g8_p36",
+      "shop_id": "shop_w1_m126_g8",
+      "content_id": 147,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m126_g8_p37",
+      "shop_id": "shop_w1_m126_g8",
+      "content_id": 148,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m126_g8_p38",
+      "shop_id": "shop_w1_m126_g8",
+      "content_id": 158,
+      "world": 1,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m126_g8_p35",
+      "shop_id": "shop_w3_m126_g8",
+      "content_id": 146,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m126_g8_p36",
+      "shop_id": "shop_w3_m126_g8",
+      "content_id": 147,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m126_g8_p37",
+      "shop_id": "shop_w3_m126_g8",
+      "content_id": 148,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m126_g8_p38",
+      "shop_id": "shop_w3_m126_g8",
+      "content_id": 158,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w1_m127_g22_p110",
+      "shop_id": "shop_w1_m127_g22",
+      "content_id": 191,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m127_g22_p111",
+      "shop_id": "shop_w1_m127_g22",
+      "content_id": 228,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m127_g22_p110",
+      "shop_id": "shop_w3_m127_g22",
+      "content_id": 191,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m127_g22_p111",
+      "shop_id": "shop_w3_m127_g22",
+      "content_id": 228,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m128_g41_p235",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 398,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p236",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 399,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p237",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 400,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p238",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 395,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p239",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 396,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p240",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 392,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p241",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 393,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m128_g41_p242",
+      "shop_id": "shop_w1_m128_g41",
+      "content_id": 394,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p235",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 398,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p236",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 399,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p237",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 400,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p238",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 395,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p239",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 396,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p240",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 392,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p241",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 393,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m128_g41_p242",
+      "shop_id": "shop_w3_m128_g41",
+      "content_id": 394,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m132_g50_p284",
+      "shop_id": "shop_w1_m132_g50",
+      "content_id": 385,
+      "world": 1,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w1_m134_g32_p166",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 5,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p167",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 2,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p168",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 6,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p169",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 7,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p170",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 10,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p171",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 9,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p172",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 8,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m134_g32_p173",
+      "shop_id": "shop_w1_m134_g32",
+      "content_id": 12,
+      "world": 1,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w1_m135_g29_p154",
+      "shop_id": "shop_w1_m135_g29",
+      "content_id": 194,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m135_g29_p155",
+      "shop_id": "shop_w1_m135_g29",
+      "content_id": 221,
+      "world": 1,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w1_m135_g55_p308",
+      "shop_id": "shop_w1_m135_g55",
+      "content_id": 73,
+      "world": 1,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w1_m135_g55_p309",
+      "shop_id": "shop_w1_m135_g55",
+      "content_id": 28,
+      "world": 1,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w1_m135_g55_p310",
+      "shop_id": "shop_w1_m135_g55",
+      "content_id": 24,
+      "world": 1,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w1_m135_g55_p311",
+      "shop_id": "shop_w1_m135_g55",
+      "content_id": 25,
+      "world": 1,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w1_m135_g55_p312",
+      "shop_id": "shop_w1_m135_g55",
+      "content_id": 26,
+      "world": 1,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w2_m142_g44_p257",
+      "shop_id": "shop_w2_m142_g44",
+      "content_id": 383,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g44_p258",
+      "shop_id": "shop_w2_m142_g44",
+      "content_id": 384,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g44_p259",
+      "shop_id": "shop_w2_m142_g44",
+      "content_id": 385,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g44_p257",
+      "shop_id": "shop_w3_m142_g44",
+      "content_id": 383,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g44_p258",
+      "shop_id": "shop_w3_m142_g44",
+      "content_id": 384,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g44_p259",
+      "shop_id": "shop_w3_m142_g44",
+      "content_id": 385,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g45_p260",
+      "shop_id": "shop_w2_m142_g45",
+      "content_id": 401,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g45_p261",
+      "shop_id": "shop_w2_m142_g45",
+      "content_id": 402,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g45_p262",
+      "shop_id": "shop_w2_m142_g45",
+      "content_id": 403,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g45_p260",
+      "shop_id": "shop_w3_m142_g45",
+      "content_id": 401,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g45_p261",
+      "shop_id": "shop_w3_m142_g45",
+      "content_id": 402,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g45_p262",
+      "shop_id": "shop_w3_m142_g45",
+      "content_id": 403,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g46_p263",
+      "shop_id": "shop_w2_m142_g46",
+      "content_id": 419,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g46_p264",
+      "shop_id": "shop_w2_m142_g46",
+      "content_id": 420,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m142_g46_p265",
+      "shop_id": "shop_w2_m142_g46",
+      "content_id": 421,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g46_p263",
+      "shop_id": "shop_w3_m142_g46",
+      "content_id": 419,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g46_p264",
+      "shop_id": "shop_w3_m142_g46",
+      "content_id": 420,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m142_g46_p265",
+      "shop_id": "shop_w3_m142_g46",
+      "content_id": 421,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m143_g9_p39",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 65,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p40",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 110,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p41",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 118,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p42",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 82,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p43",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 99,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p44",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 149,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p45",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 159,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g9_p46",
+      "shop_id": "shop_w2_m143_g9",
+      "content_id": 164,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p39",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 65,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p40",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 110,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p41",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 118,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p42",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 82,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p43",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 99,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p44",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 149,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p45",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 159,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m143_g9_p46",
+      "shop_id": "shop_w3_m143_g9",
+      "content_id": 164,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m143_g23_p112",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 182,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p113",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 207,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p114",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 194,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p115",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 199,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p116",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 237,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p117",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 221,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m143_g23_p118",
+      "shop_id": "shop_w2_m143_g23",
+      "content_id": 229,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p112",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 182,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p113",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 207,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p114",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 194,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p115",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 199,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p116",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 237,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p117",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 221,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m143_g23_p118",
+      "shop_id": "shop_w3_m143_g23",
+      "content_id": 229,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m145_g35_p190",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 3,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p191",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 2,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p192",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 4,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p193",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 8,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p194",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 9,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p195",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 10,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p196",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 7,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g35_p197",
+      "shop_id": "shop_w2_m145_g35",
+      "content_id": 6,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p190",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p191",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p192",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p193",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p194",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p195",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p196",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g35_p197",
+      "shop_id": "shop_w3_m145_g35",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p198",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 5,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p199",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 11,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p200",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 13,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p201",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 15,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p202",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 16,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p203",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 17,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p204",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 18,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m145_g36_p205",
+      "shop_id": "shop_w2_m145_g36",
+      "content_id": 19,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p198",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p199",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p200",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 13,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p201",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p202",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p203",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p204",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m145_g36_p205",
+      "shop_id": "shop_w3_m145_g36",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m149_g24_p119",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 184,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p120",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 208,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p121",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 196,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p122",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 200,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p123",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 238,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p124",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 223,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p125",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 230,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m149_g24_p126",
+      "shop_id": "shop_w2_m149_g24",
+      "content_id": 249,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p119",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 184,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p120",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 208,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p121",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 196,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p122",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 200,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p123",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 238,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p124",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 223,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p125",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 230,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m149_g24_p126",
+      "shop_id": "shop_w3_m149_g24",
+      "content_id": 249,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m150_g35_p190",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 3,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p191",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 2,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p192",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 4,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p193",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 8,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p194",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 9,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p195",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 10,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p196",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 7,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g35_p197",
+      "shop_id": "shop_w2_m150_g35",
+      "content_id": 6,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p190",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p191",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p192",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p193",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p194",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p195",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p196",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g35_p197",
+      "shop_id": "shop_w3_m150_g35",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p198",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 5,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p199",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 11,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p200",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 13,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p201",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 15,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p202",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 16,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p203",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 17,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p204",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 18,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m150_g36_p205",
+      "shop_id": "shop_w2_m150_g36",
+      "content_id": 19,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p198",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p199",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p200",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 13,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p201",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p202",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p203",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p204",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m150_g36_p205",
+      "shop_id": "shop_w3_m150_g36",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m151_g10_p47",
+      "shop_id": "shop_w2_m151_g10",
+      "content_id": 67,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m151_g10_p48",
+      "shop_id": "shop_w2_m151_g10",
+      "content_id": 152,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m151_g10_p47",
+      "shop_id": "shop_w3_m151_g10",
+      "content_id": 67,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m151_g10_p48",
+      "shop_id": "shop_w3_m151_g10",
+      "content_id": 152,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m152_g47_p266",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 386,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g47_p267",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 387,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g47_p268",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 388,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g47_p269",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 383,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g47_p270",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 384,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g47_p271",
+      "shop_id": "shop_w2_m152_g47",
+      "content_id": 385,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p266",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 386,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p267",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 387,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p268",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 388,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p269",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 383,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p270",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 384,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g47_p271",
+      "shop_id": "shop_w3_m152_g47",
+      "content_id": 385,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p272",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 404,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p273",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 405,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p274",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 406,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p275",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 401,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p276",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 402,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g48_p277",
+      "shop_id": "shop_w2_m152_g48",
+      "content_id": 403,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p272",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 404,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p273",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 405,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p274",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 406,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p275",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 401,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p276",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 402,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g48_p277",
+      "shop_id": "shop_w3_m152_g48",
+      "content_id": 403,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p278",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 422,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p279",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 423,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p280",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 424,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p281",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 419,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p282",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 420,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m152_g49_p283",
+      "shop_id": "shop_w2_m152_g49",
+      "content_id": 421,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p278",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 422,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p279",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 423,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p280",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 424,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p281",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 419,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p282",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 420,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m152_g49_p283",
+      "shop_id": "shop_w3_m152_g49",
+      "content_id": 421,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g13_p64",
+      "shop_id": "shop_w2_m157_g13",
+      "content_id": 84,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m157_g13_p65",
+      "shop_id": "shop_w2_m157_g13",
+      "content_id": 100,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m157_g13_p66",
+      "shop_id": "shop_w2_m157_g13",
+      "content_id": 120,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m157_g13_p67",
+      "shop_id": "shop_w2_m157_g13",
+      "content_id": 112,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m157_g13_p64",
+      "shop_id": "shop_w3_m157_g13",
+      "content_id": 84,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m157_g13_p65",
+      "shop_id": "shop_w3_m157_g13",
+      "content_id": 100,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m157_g13_p66",
+      "shop_id": "shop_w3_m157_g13",
+      "content_id": 120,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m157_g13_p67",
+      "shop_id": "shop_w3_m157_g13",
+      "content_id": 112,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m157_g27_p138",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 182,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p139",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 207,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p140",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 195,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p141",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 199,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p142",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 237,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p143",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 222,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p144",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 229,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g27_p145",
+      "shop_id": "shop_w2_m157_g27",
+      "content_id": 244,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p138",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 182,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p139",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 207,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p140",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 195,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p141",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 199,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p142",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 237,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p143",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 222,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p144",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 229,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m157_g27_p145",
+      "shop_id": "shop_w3_m157_g27",
+      "content_id": 244,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m157_g35_p190",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 3,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p191",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 2,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p192",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 4,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p193",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 8,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p194",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 9,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p195",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 10,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p196",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 7,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g35_p197",
+      "shop_id": "shop_w2_m157_g35",
+      "content_id": 6,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p190",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p191",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p192",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p193",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p194",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p195",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p196",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g35_p197",
+      "shop_id": "shop_w3_m157_g35",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p198",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 5,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p199",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 11,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p200",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 13,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p201",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 15,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p202",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 16,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p203",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 17,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p204",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 18,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g36_p205",
+      "shop_id": "shop_w2_m157_g36",
+      "content_id": 19,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p198",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p199",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p200",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 13,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p201",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p202",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p203",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p204",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m157_g36_p205",
+      "shop_id": "shop_w3_m157_g36",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m157_g44_p257",
+      "shop_id": "shop_w2_m157_g44",
+      "content_id": 383,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g44_p258",
+      "shop_id": "shop_w2_m157_g44",
+      "content_id": 384,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g44_p259",
+      "shop_id": "shop_w2_m157_g44",
+      "content_id": 385,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g44_p257",
+      "shop_id": "shop_w3_m157_g44",
+      "content_id": 383,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g44_p258",
+      "shop_id": "shop_w3_m157_g44",
+      "content_id": 384,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g44_p259",
+      "shop_id": "shop_w3_m157_g44",
+      "content_id": 385,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g45_p260",
+      "shop_id": "shop_w2_m157_g45",
+      "content_id": 401,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g45_p261",
+      "shop_id": "shop_w2_m157_g45",
+      "content_id": 402,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g45_p262",
+      "shop_id": "shop_w2_m157_g45",
+      "content_id": 403,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g45_p260",
+      "shop_id": "shop_w3_m157_g45",
+      "content_id": 401,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g45_p261",
+      "shop_id": "shop_w3_m157_g45",
+      "content_id": 402,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g45_p262",
+      "shop_id": "shop_w3_m157_g45",
+      "content_id": 403,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g46_p263",
+      "shop_id": "shop_w2_m157_g46",
+      "content_id": 419,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g46_p264",
+      "shop_id": "shop_w2_m157_g46",
+      "content_id": 420,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m157_g46_p265",
+      "shop_id": "shop_w2_m157_g46",
+      "content_id": 421,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g46_p263",
+      "shop_id": "shop_w3_m157_g46",
+      "content_id": 419,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g46_p264",
+      "shop_id": "shop_w3_m157_g46",
+      "content_id": 420,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m157_g46_p265",
+      "shop_id": "shop_w3_m157_g46",
+      "content_id": 421,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g44_p257",
+      "shop_id": "shop_w2_m162_g44",
+      "content_id": 383,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g44_p258",
+      "shop_id": "shop_w2_m162_g44",
+      "content_id": 384,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g44_p259",
+      "shop_id": "shop_w2_m162_g44",
+      "content_id": 385,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g44_p257",
+      "shop_id": "shop_w3_m162_g44",
+      "content_id": 383,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g44_p258",
+      "shop_id": "shop_w3_m162_g44",
+      "content_id": 384,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g44_p259",
+      "shop_id": "shop_w3_m162_g44",
+      "content_id": 385,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g45_p260",
+      "shop_id": "shop_w2_m162_g45",
+      "content_id": 401,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g45_p261",
+      "shop_id": "shop_w2_m162_g45",
+      "content_id": 402,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g45_p262",
+      "shop_id": "shop_w2_m162_g45",
+      "content_id": 403,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g45_p260",
+      "shop_id": "shop_w3_m162_g45",
+      "content_id": 401,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g45_p261",
+      "shop_id": "shop_w3_m162_g45",
+      "content_id": 402,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g45_p262",
+      "shop_id": "shop_w3_m162_g45",
+      "content_id": 403,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g46_p263",
+      "shop_id": "shop_w2_m162_g46",
+      "content_id": 419,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g46_p264",
+      "shop_id": "shop_w2_m162_g46",
+      "content_id": 420,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m162_g46_p265",
+      "shop_id": "shop_w2_m162_g46",
+      "content_id": 421,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g46_p263",
+      "shop_id": "shop_w3_m162_g46",
+      "content_id": 419,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g46_p264",
+      "shop_id": "shop_w3_m162_g46",
+      "content_id": 420,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m162_g46_p265",
+      "shop_id": "shop_w3_m162_g46",
+      "content_id": 421,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m163_g11_p49",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 74,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p50",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 151,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p51",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 131,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p52",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 28,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p53",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 24,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p54",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 25,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g11_p55",
+      "shop_id": "shop_w2_m163_g11",
+      "content_id": 26,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p49",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 74,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p50",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 151,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p51",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 131,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p52",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 28,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p53",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 24,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p54",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 25,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g11_p55",
+      "shop_id": "shop_w3_m163_g11",
+      "content_id": 26,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p56",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 65,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p57",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 110,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p58",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 118,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p59",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 82,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p60",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 99,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p61",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 149,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p62",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 159,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g12_p63",
+      "shop_id": "shop_w2_m163_g12",
+      "content_id": 164,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p56",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 65,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p57",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 110,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p58",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 118,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p59",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 82,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p60",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 99,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p61",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 149,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p62",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 159,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m163_g12_p63",
+      "shop_id": "shop_w3_m163_g12",
+      "content_id": 164,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m163_g25_p127",
+      "shop_id": "shop_w2_m163_g25",
+      "content_id": 195,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g25_p128",
+      "shop_id": "shop_w2_m163_g25",
+      "content_id": 222,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g25_p129",
+      "shop_id": "shop_w2_m163_g25",
+      "content_id": 248,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g25_p127",
+      "shop_id": "shop_w3_m163_g25",
+      "content_id": 195,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g25_p128",
+      "shop_id": "shop_w3_m163_g25",
+      "content_id": 222,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g25_p129",
+      "shop_id": "shop_w3_m163_g25",
+      "content_id": 248,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p130",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 182,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p131",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 207,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p132",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 194,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p133",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 199,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p134",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 237,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p135",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 221,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p136",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 229,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m163_g26_p137",
+      "shop_id": "shop_w2_m163_g26",
+      "content_id": 244,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p130",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 182,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p131",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 207,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p132",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 194,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p133",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 199,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p134",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 237,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p135",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 221,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p136",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 229,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m163_g26_p137",
+      "shop_id": "shop_w3_m163_g26",
+      "content_id": 244,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m164_g35_p190",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 3,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p191",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 2,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p192",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 4,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p193",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 8,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p194",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 9,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p195",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 10,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p196",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 7,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g35_p197",
+      "shop_id": "shop_w2_m164_g35",
+      "content_id": 6,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p190",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p191",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p192",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p193",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p194",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p195",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p196",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g35_p197",
+      "shop_id": "shop_w3_m164_g35",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p198",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 5,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p199",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 11,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p200",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 13,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p201",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 15,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p202",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 16,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p203",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 17,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p204",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 18,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m164_g36_p205",
+      "shop_id": "shop_w2_m164_g36",
+      "content_id": 19,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p198",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p199",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p200",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 13,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p201",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p202",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p203",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p204",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m164_g36_p205",
+      "shop_id": "shop_w3_m164_g36",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m168_g12_p56",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 65,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p57",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 110,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p58",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 118,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p59",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 82,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p60",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 99,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p61",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 149,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p62",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 159,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g12_p63",
+      "shop_id": "shop_w2_m168_g12",
+      "content_id": 164,
+      "world": 2,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p56",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 65,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p57",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 110,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p58",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 118,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p59",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 82,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p60",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 99,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p61",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 149,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p62",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 159,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m168_g12_p63",
+      "shop_id": "shop_w3_m168_g12",
+      "content_id": 164,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w2_m168_g26_p130",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 182,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p131",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 207,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p132",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 194,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p133",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 199,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p134",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 237,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p135",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 221,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p136",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 229,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g26_p137",
+      "shop_id": "shop_w2_m168_g26",
+      "content_id": 244,
+      "world": 2,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p130",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 182,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p131",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 207,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p132",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 194,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p133",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 199,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p134",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 237,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p135",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 221,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p136",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 229,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m168_g26_p137",
+      "shop_id": "shop_w3_m168_g26",
+      "content_id": 244,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w2_m168_g44_p257",
+      "shop_id": "shop_w2_m168_g44",
+      "content_id": 383,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g44_p258",
+      "shop_id": "shop_w2_m168_g44",
+      "content_id": 384,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g44_p259",
+      "shop_id": "shop_w2_m168_g44",
+      "content_id": 385,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g44_p257",
+      "shop_id": "shop_w3_m168_g44",
+      "content_id": 383,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g44_p258",
+      "shop_id": "shop_w3_m168_g44",
+      "content_id": 384,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g44_p259",
+      "shop_id": "shop_w3_m168_g44",
+      "content_id": 385,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g45_p260",
+      "shop_id": "shop_w2_m168_g45",
+      "content_id": 401,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g45_p261",
+      "shop_id": "shop_w2_m168_g45",
+      "content_id": 402,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g45_p262",
+      "shop_id": "shop_w2_m168_g45",
+      "content_id": 403,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g45_p260",
+      "shop_id": "shop_w3_m168_g45",
+      "content_id": 401,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g45_p261",
+      "shop_id": "shop_w3_m168_g45",
+      "content_id": 402,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g45_p262",
+      "shop_id": "shop_w3_m168_g45",
+      "content_id": 403,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g46_p263",
+      "shop_id": "shop_w2_m168_g46",
+      "content_id": 419,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g46_p264",
+      "shop_id": "shop_w2_m168_g46",
+      "content_id": 420,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m168_g46_p265",
+      "shop_id": "shop_w2_m168_g46",
+      "content_id": 421,
+      "world": 2,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g46_p263",
+      "shop_id": "shop_w3_m168_g46",
+      "content_id": 419,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g46_p264",
+      "shop_id": "shop_w3_m168_g46",
+      "content_id": 420,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m168_g46_p265",
+      "shop_id": "shop_w3_m168_g46",
+      "content_id": 421,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w2_m170_g35_p190",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 3,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p191",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 2,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p192",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 4,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p193",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 8,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p194",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 9,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p195",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 10,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p196",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 7,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g35_p197",
+      "shop_id": "shop_w2_m170_g35",
+      "content_id": 6,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p190",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p191",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p192",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p193",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p194",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p195",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p196",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g35_p197",
+      "shop_id": "shop_w3_m170_g35",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p198",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 5,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p199",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 11,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p200",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 13,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p201",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 15,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p202",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 16,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p203",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 17,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p204",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 18,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w2_m170_g36_p205",
+      "shop_id": "shop_w2_m170_g36",
+      "content_id": 19,
+      "world": 2,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p198",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p199",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p200",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 13,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p201",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p202",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p203",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p204",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m170_g36_p205",
+      "shop_id": "shop_w3_m170_g36",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p206",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 2,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p207",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 3,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p208",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 4,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p209",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 9,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p210",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 6,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p211",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 7,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p212",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 8,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g37_p213",
+      "shop_id": "shop_w3_m179_g37",
+      "content_id": 10,
+      "world": 3,
+      "shop_type": "Items"
+    },
+    {
+      "id": "shop_w3_m179_g57_p320",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 14,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p321",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 5,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p322",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 11,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p323",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 15,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p324",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 16,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p325",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 17,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p326",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 18,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m179_g57_p327",
+      "shop_id": "shop_w3_m179_g57",
+      "content_id": 19,
+      "world": 3,
+      "shop_type": "Apothecary"
+    },
+    {
+      "id": "shop_w3_m182_g51_p285",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 389,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g51_p286",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 391,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g51_p287",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 408,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g51_p288",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 409,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g51_p289",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 426,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g51_p290",
+      "shop_id": "shop_w3_m182_g51",
+      "content_id": 427,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p291",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 379,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p292",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 397,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p293",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 410,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p294",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 415,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p295",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 418,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p296",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 428,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p297",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 429,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m182_g52_p298",
+      "shop_id": "shop_w3_m182_g52",
+      "content_id": 430,
+      "world": 3,
+      "shop_type": "Magic"
+    },
+    {
+      "id": "shop_w3_m183_g30_p156",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 187,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p157",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 209,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p158",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 197,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p159",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 201,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p160",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 239,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p161",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 224,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p162",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 231,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g30_p163",
+      "shop_id": "shop_w3_m183_g30",
+      "content_id": 232,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m183_g54_p302",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 252,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m183_g54_p303",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 254,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m183_g54_p304",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 255,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m183_g54_p305",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 256,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m183_g54_p306",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 198,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m183_g54_p307",
+      "shop_id": "shop_w3_m183_g54",
+      "content_id": 214,
+      "world": 3,
+      "shop_type": "Accessories"
+    },
+    {
+      "id": "shop_w3_m184_g15_p72",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 88,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p73",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 89,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p74",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 113,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p75",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 144,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p76",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 150,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p77",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 122,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g15_p78",
+      "shop_id": "shop_w3_m184_g15",
+      "content_id": 103,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m184_g56_p313",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 29,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p314",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 28,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p315",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 102,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p316",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 172,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p317",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 24,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p318",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 25,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m184_g56_p319",
+      "shop_id": "shop_w3_m184_g56",
+      "content_id": 26,
+      "world": 3,
+      "shop_type": "Ninja Supplies"
+    },
+    {
+      "id": "shop_w3_m470_g14_p68",
+      "shop_id": "shop_w3_m470_g14",
+      "content_id": 113,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m470_g14_p69",
+      "shop_id": "shop_w3_m470_g14",
+      "content_id": 144,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m470_g14_p70",
+      "shop_id": "shop_w3_m470_g14",
+      "content_id": 150,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m470_g14_p71",
+      "shop_id": "shop_w3_m470_g14",
+      "content_id": 122,
+      "world": 3,
+      "shop_type": "Weapons"
+    },
+    {
+      "id": "shop_w3_m470_g28_p146",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 187,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p147",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 209,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p148",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 197,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p149",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 201,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p150",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 239,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p151",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 224,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p152",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 231,
+      "world": 3,
+      "shop_type": "Armor"
+    },
+    {
+      "id": "shop_w3_m470_g28_p153",
+      "shop_id": "shop_w3_m470_g28",
+      "content_id": 232,
+      "world": 3,
+      "shop_type": "Armor"
+    }
+  ]
+}

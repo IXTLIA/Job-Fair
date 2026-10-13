@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "sha256": {
+    "mixed_catalog.json": "8520c4dbce219484c0f9d2589132551c000c3b732a004b6c9897b9177fbc73c5",
+    "world_catalog.json": "6be33d22878596233c793098f73fac7856f7b85e7b4dca1b9871dcafcdd5e93d",
+    "shop_catalog.json": "f74e0545b5b6edf7aa949697b48db8463d5b30dba04dbbd71aac29f2dcabf42f",
+    "remixed_jobs_catalog.json": "ee21305a059410c0a1a268d996cdf499e3a23aa7a89f22183cc4a57494d4a9a5",
+    "world_travel_catalog.json": "c996d608ca0528a21f37a83fa072647096a814e4e2372ab29f126c0835dd7618",
+    "native_job_model.json": "c115c8d8f0682b43d033f4bf37734a2ba37ce363f90b89d208e5a3849350ba85",
+    "enemy_loot_catalog.json": "03948faef6ed92ad7fb62e89be53a451a72537ce713b3709431315fc0243777b",
+    "event_reward_catalog.json": "11a1cf778eb3f7f92d578a4e2bcdcd2c950f6a3e7cf3c3d44bd772bba63a67fc",
+    "boss_catalog.json": "1c1340c49e47e32fec47876021baa8bc1f90b83ea3e20a40c87a347f9bc0bd86"
+  },
+  "audited_source_sha256": {
+    "rewards/mixed_runtime_catalog.json": "f3c7b885400d7149a576d7d9aaa71401e86bb0a3449d8fd4c65d91af58b42b34",
+    "rewards/world_runtime_catalog.json": "2284f80c6a89545addb39f1279d58f5cd9b15124e981db9220cba165cf0ac1de",
+    "shops/shop_runtime_catalog.json": "afaf51cbb49c92282c0cb2013528297201a6393368391684367d9bfbf3f5d43b",
+    "rewards/remixed_jobs_catalog.json": "c0e1f3a3d96e4434de185dbcc3f8bbfaf037119a1fdacd3cb132bb0784b531dd",
+    "rewards/world_travel_catalog.json": "686aa2b839532ecab0a515e0d6b82be2e0bd633a34cb7f7887aeda564efcd329",
+    "bosses/catalog_runtime.json": "f4b2fd095cc689b66cfe27e291fbbae709d4cde220c115771caf21fd7f521361",
+    "loot/catalog_runtime.json": "03948faef6ed92ad7fb62e89be53a451a72537ce713b3709431315fc0243777b",
+    "events_rewards/catalog_runtime.json": "af66c8609bfb5a27abdf1656d7a957611fadbe7037ddf4a1840ad36203803bbe",
+    "events/native_operations.json": "013c057c628a011089578bd6c0db10f167c60d869e4ae63680454a5a959807f0"
+  }
+}

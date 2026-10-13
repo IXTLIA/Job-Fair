@@ -1,0 +1,74 @@
+[
+  {
+    "seed": "0",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "46150a61ab1c8ab0c5505cee6a299f576a71a4b229d90be1f6cb044f90dd8856"
+  },
+  {
+    "seed": "0",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "fd9262ae3d6a36118ebbb23ad2258db5de2b1f64417d9ff03f619fa1b34be754"
+  },
+  {
+    "seed": "1",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "d46050b4a4068b3a1561027739c00662f03a5b281d01e5dbd387ea8762d3412a"
+  },
+  {
+    "seed": "1",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "034bcec397eed7da832fe4da10c8042e42d4ce2e30a4612eb2b4711ae197de80"
+  },
+  {
+    "seed": "8",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "5fa349ffa5c445d942234d3aeca306ed164b26a8f8429fc4639db851fa38ff6e"
+  },
+  {
+    "seed": "8",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "e24837d0180363644720b63b5a5c42d0b10c5b8c0ee4f2ee760ae73c718bc600"
+  },
+  {
+    "seed": "90",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "531fa4d38cebe3560177bbf2886cb5718a6df9e6569792b356cd16260a9886bb"
+  },
+  {
+    "seed": "90",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "22e72353e88ce489719b25f95b2900fe7e96a012ba37f8e6d6d984083501ec45"
+  },
+  {
+    "seed": "9223372036854775808",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "82a2ca35873b39a48b2f785d3293787bb047b8b07e77f5c13a4d77b69932c250"
+  },
+  {
+    "seed": "9223372036854775808",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "a464e9fed436fb1486dffb72434a02f70df017154925eaaf2c1d757c69869a3b"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-bosses-v1",
+    "placement_hash": "ac5ffbec6d4420f728439f08ab6ecd9dc5e27b8126aaae76c3c5e4c525c4f7cd"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-bosses-v1",
+    "placement_hash": "a113359effc5324f69ad5b3ad1c9299010834237502a55d6f21334c15d16fccc"
+  }
+]

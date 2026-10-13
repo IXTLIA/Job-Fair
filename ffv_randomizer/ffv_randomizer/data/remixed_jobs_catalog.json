@@ -1,0 +1,154 @@
+{
+  "catalog_id": "remixed-job-crystals-slice-v1",
+  "quotas": {
+    "1": 6,
+    "2": 6,
+    "3": 5
+  },
+  "bonus_candidates": [
+    {
+      "id": "remixed_job/native_treasure_002",
+      "ordinary_id": "native_treasure_002",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_job/native_treasure_003",
+      "ordinary_id": "native_treasure_003",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_job/native_treasure_004",
+      "ordinary_id": "native_treasure_004",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_job/native_treasure_005",
+      "ordinary_id": "native_treasure_005",
+      "world": 1,
+      "region": "tule"
+    },
+    {
+      "id": "remixed_job/native_treasure_046",
+      "ordinary_id": "native_treasure_046",
+      "world": 2,
+      "region": "surgate"
+    },
+    {
+      "id": "remixed_job/native_treasure_047",
+      "ordinary_id": "native_treasure_047",
+      "world": 2,
+      "region": "surgate"
+    },
+    {
+      "id": "remixed_job/native_treasure_050",
+      "ordinary_id": "native_treasure_050",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_job/native_treasure_051",
+      "ordinary_id": "native_treasure_051",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_job/native_treasure_052",
+      "ordinary_id": "native_treasure_052",
+      "world": 2,
+      "region": "bal"
+    },
+    {
+      "id": "remixed_job/native_treasure_053",
+      "ordinary_id": "native_treasure_053",
+      "world": 3,
+      "region": "phantom"
+    },
+    {
+      "id": "remixed_job/native_treasure_059",
+      "ordinary_id": "native_treasure_059",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_job/native_treasure_060",
+      "ordinary_id": "native_treasure_060",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_job/native_treasure_061",
+      "ordinary_id": "native_treasure_061",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_job/native_treasure_062",
+      "ordinary_id": "native_treasure_062",
+      "world": 1,
+      "region": "wind"
+    },
+    {
+      "id": "remixed_job/native_treasure_125",
+      "ordinary_id": "native_treasure_125",
+      "world": 2,
+      "region": "drakenvale"
+    },
+    {
+      "id": "remixed_job/native_treasure_126",
+      "ordinary_id": "native_treasure_126",
+      "world": 2,
+      "region": "drakenvale"
+    },
+    {
+      "id": "remixed_job/native_treasure_128",
+      "ordinary_id": "native_treasure_128",
+      "world": 2,
+      "region": "drakenvale"
+    },
+    {
+      "id": "remixed_job/native_treasure_215",
+      "ordinary_id": "native_treasure_215",
+      "world": 3,
+      "region": "istory"
+    },
+    {
+      "id": "remixed_job/native_treasure_216",
+      "ordinary_id": "native_treasure_216",
+      "world": 3,
+      "region": "istory"
+    },
+    {
+      "id": "remixed_job/native_treasure_229",
+      "ordinary_id": "native_treasure_229",
+      "world": 3,
+      "region": "phoenix"
+    },
+    {
+      "id": "remixed_job/native_treasure_231",
+      "ordinary_id": "native_treasure_231",
+      "world": 3,
+      "region": "phoenix"
+    },
+    {
+      "id": "remixed_job/native_treasure_234",
+      "ordinary_id": "native_treasure_234",
+      "world": 3,
+      "region": "phoenix"
+    },
+    {
+      "id": "remixed_job/native_treasure_235",
+      "ordinary_id": "native_treasure_235",
+      "world": 3,
+      "region": "phoenix"
+    },
+    {
+      "id": "remixed_job/native_treasure_238",
+      "ordinary_id": "native_treasure_238",
+      "world": 3,
+      "region": "phoenix"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "seed": "0",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-rewards-v1",
+    "placement_hash": "4d95d5cc5e9180d88f882394883b8e4360876124dc5349c13818b52a8efca356"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-rewards-v1",
+    "placement_hash": "1faef4a9adad41dd7c79f4136e4014a8fb970c1095b57f5a5e783ae6c177e0a4"
+  },
+  {
+    "seed": "2",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-rewards-v1",
+    "placement_hash": "813d5f9b1c67d6c177ea5136100328cc3ebe97e64bf1a7d75d37e46b0c343403"
+  },
+  {
+    "seed": "8",
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-crystals-rewards-v1",
+    "placement_hash": "09b07d48ca9ad4e729a4a9f9ddb52ee2725e40a245bf46ee7a2ddf89d34b5ea1"
+  },
+  {
+    "seed": "0",
+    "mode": "Mixed-Fiesta",
+    "catalog_id": "mixed-fiesta-rewards-v1",
+    "placement_hash": "255e25cd14b700a258957c2d4c82402f1afc7512a776306665a1fb786355c09c"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Mixed-Fiesta",
+    "catalog_id": "mixed-fiesta-rewards-v1",
+    "placement_hash": "9acbdd21b3bcdf77231c31831a294c69d43e048102308efcfcee52ba37e16d59"
+  },
+  {
+    "seed": "2",
+    "mode": "Mixed-Fiesta",
+    "catalog_id": "mixed-fiesta-rewards-v1",
+    "placement_hash": "c373b8a4138113823d500812dacff55739f6229ead1611c1f5d215a40b6ee499"
+  },
+  {
+    "seed": "8",
+    "mode": "Mixed-Fiesta",
+    "catalog_id": "mixed-fiesta-rewards-v1",
+    "placement_hash": "70e9fd83381499b357dc8286ac90d7ebe9b6dd0a4c591c05add9d22eb50ad5e2"
+  },
+  {
+    "seed": "0",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-rewards-v1",
+    "placement_hash": "d3ed0e174235f9e7af0619bbf4b974b27e0053010f6ee663518eaeb2fd34ce9d"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-rewards-v1",
+    "placement_hash": "30ade26322b48ea4f370c66485567ad6d7598d4d9144aba6cdf7a1df4287c06b"
+  },
+  {
+    "seed": "2",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-rewards-v1",
+    "placement_hash": "b75bc14e709dd032d6e726d0671a99e4a1d330c67c500bae50622adcbc1349fb"
+  },
+  {
+    "seed": "8",
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-rewards-v1",
+    "placement_hash": "6f89fa2f91cd3739ef9e27badc630f30177f0db8e0bb08f2827ce999a02605cd"
+  },
+  {
+    "seed": "0",
+    "mode": "Remixed-Fiesta",
+    "catalog_id": "remixed-fiesta-rewards-v1",
+    "placement_hash": "aa5e4a5bbcff3f0ac3b6040d89e0f41be2566c66e03904e8283f50e7a10d84eb"
+  },
+  {
+    "seed": "18446744073709551615",
+    "mode": "Remixed-Fiesta",
+    "catalog_id": "remixed-fiesta-rewards-v1",
+    "placement_hash": "23063f1eee34b562796471fc868cd9181bf43d78408089fb8b757ce1d6291c13"
+  },
+  {
+    "seed": "2",
+    "mode": "Remixed-Fiesta",
+    "catalog_id": "remixed-fiesta-rewards-v1",
+    "placement_hash": "29d2b8bbf10ba6741a6ad8ef4a511fc0ae8dcdf8deb035e13fe970e739f108dc"
+  },
+  {
+    "seed": "8",
+    "mode": "Remixed-Fiesta",
+    "catalog_id": "remixed-fiesta-rewards-v1",
+    "placement_hash": "babbd26b32860673fbc29a1cf2166b63630ab83e598eb83aac4bbb95a06ad6dc"
+  }
+]

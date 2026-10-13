@@ -1,0 +1,25 @@
+# Local binaries, dependencies, game files and private data
+.venv/
+**/.venv/
+**/.build-venv/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+**/build/
+**/dist/
+job_fair_launcher/data/
+*.log
+*.dll
+*.exe
+*.pdb
+*.bundle
+*.sav
+*.zip
+research/
+staging/
+BepInEx/
+GameAssembly.dll
+global-metadata.dat
+JobFair.next-run.json

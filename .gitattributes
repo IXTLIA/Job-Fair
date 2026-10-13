@@ -1,0 +1,2 @@
+# Preserve exact bytes for pinned catalogs, payload templates and deterministic runtime builds.
+* -text

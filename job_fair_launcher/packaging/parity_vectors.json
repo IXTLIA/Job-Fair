@@ -1,0 +1,74 @@
+[
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "0",
+    "placement_hash": "1e5647453eecf57396279fc7529faba9405e68c1afb7b482a4641d72b30b10c2"
+  },
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "1",
+    "placement_hash": "9f6122719ce1e538ff3937fb7686233110b0b610f51947c51a512622cd4e3088"
+  },
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "8",
+    "placement_hash": "cd461aad7c40f3b09e7abb831e855f05537a0596a5c427baab6edd673a4b82e7"
+  },
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "90",
+    "placement_hash": "d8dbd0da02c84d111fd84518f6447038f03a619c0c0619c48945201d02913bfe"
+  },
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "9223372036854775808",
+    "placement_hash": "4cbd80cba788e0434f6faf028be4ffcdc8c5bb0bd6bf44792a81611eac650594"
+  },
+  {
+    "mode": "Mixed Crystals",
+    "catalog_id": "mixed-world-treasure-shops-fixed-karnak-v1",
+    "seed": "18446744073709551615",
+    "placement_hash": "f3fddd042248db9eb4f622207110b47324ff9f44453f1ae4abe077594ca455cf"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "0",
+    "placement_hash": "e9737711b70dae13f363ec4cc0c75e54b2eee550e71d293da7daa16f89c16007"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "1",
+    "placement_hash": "147519a76dafb5207680ff654f3bb979d0e5276c34f51a0168dcbcb7a15bdef3"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "8",
+    "placement_hash": "07a054951cb59ce31a7d5c968f70cdbaff6d26c0c2afcc7e06fa0f304d4fd327"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "90",
+    "placement_hash": "7f21ae58aa845453347169fddd50d49026fd2f8ba5d40d2d3445b64f809f0c7d"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "9223372036854775808",
+    "placement_hash": "177219ee9c8a1e517242b93c743b16ce97115bf8e956405e715a1850b6ac9cff"
+  },
+  {
+    "mode": "Remixed Crystals",
+    "catalog_id": "remixed-crystals-fixed-karnak-v1",
+    "seed": "18446744073709551615",
+    "placement_hash": "d8847085e0ce0184a5387fbd195bbfbbcc39414d225e1cd1a04120e612d42d71"
+  }
+]
